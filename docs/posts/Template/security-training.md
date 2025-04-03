@@ -1,7 +1,7 @@
 ---
 meta_title: "Security Training Resources"
 title: "Security Training Resources"
-description: TBC 
+description: TBC
 cover: 
 schema:
   -
