@@ -1,0 +1,117 @@
+site_name: Shutdown Contingency Planning Framework
+site_description: A Holistic Framework & Templates for Internet Shutdown Contingency Planning 
+site_url: http://127.0.0.1:8000/
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono  # Optional, for code blocks
+  logo: icon.png
+  favicon: icon.png
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.expand  
+    - toc.integrate      
+    - navigation.sections
+    - navigation.footer
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - navigation.expand
+    - navigation.sections   
+    - navigation.instant   
+    - search.highlight
+
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: #188FA7
+    accent: cyan
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: blue
+    accent: cyan
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - git-revision-date-localized:
+      type: iso_date
+      fallback_to_build_date: false  
+      enable_creation_date: false  
+      enabled: true
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  - tags:
+      tags_file: tags.md
+  - privacy:
+      links: 
+      links_attr_map:
+        target: _blank
+      links_noopener: true
+      enabled: true
+      assets_exclude:
+        - cdn.jsdelivr.net/npm/mathjax@3/*
+        - giscus.app/*
+  - panzoom:
+      full_screen: True # default False
+    
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10.1.0/dist/mermaid.min.js
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/stayteef"  target="_blank" rel="noopener">ST</a>
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - Create Your Training Plan: posts/create.md
+  - User Guide:
+      - ToT: posts/User-Guide/tot.md
+  - Activity:
+      - Questionnaire: posts/Template/questionnaire.md
+      - Context Research: posts/Template/context-Research.md
+      - Impact-Cost Matrix: posts/Template/Impact-Cost-Matrix.md
+      - Needs Mapping: posts/Template/Needs-Mapping.md
+      - Tool Familiarisation: posts/Template/familiarisation.md
