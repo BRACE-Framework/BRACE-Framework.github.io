@@ -12,6 +12,27 @@ schema:
 ---
 ## Needs Mapping
 
+There are several factors that must be taken into consideration.
+
+- **Needs**: Identify the daily and weekly tasks that must be maintained. For example:
+  - Journalists need to publish updates on elections and protests.
+  - Human rights advocates focus on mitigation planning.
+
+- **Workflow**: Break down the workflow step by step to identify alternative solutions.
+
+- **Interference**: Assess how shutdowns can impact the ability to achieve usual work objectives.
+
+- **Risk**: Evaluate the risks involved in each workflow step and the potential suggested mitigations.
+
+- **Cost**: Determine the financial, time, and manpower costs involved, and assess whether the organization is willing and capable of meeting these requirements.
+
+
+Determine how an internet shutdown would interfere with these tasks, including related risks such as increased police searchesIdentify the specific tasks that must be completed (e.g. publishing three articles online)
+Propose possible workarounds
+- Find countermeasures or circumvention strategies for each suggestion, if available; if not, suggest alternative options.
+- Draft a mitigation workflow to be followed during an internet shutdown
+
+
 <h2>📝 Editable Risk Assessment Table</h2>
 <p>Fill in the table below with relevant details.</p>
 

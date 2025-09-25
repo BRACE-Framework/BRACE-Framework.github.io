@@ -105,7 +105,7 @@ copyright: |
 
 nav:
   - Home: index.md
-  - Methodology: methodology.md
+  - Methodology: posts/Template/methodology
   - Create Your Training Plan: posts/create.md
   - User Guide:
       - ToT: posts/User-Guide/tot.md
@@ -115,3 +115,6 @@ nav:
       - Impact-Cost Matrix: posts/Template/Impact-Cost-Matrix.md
       - Needs Mapping: posts/Template/Needs-Mapping.md
       - Tool Familiarisation: posts/Template/familiarisation.md
+      - Mitigation-workplan: posts/Template/Mitigation-workplan.md
+      - Feedback Collection: posts/Template/feedback.md
+      - Security Training: posts/Template/security-training.md

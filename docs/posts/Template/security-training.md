@@ -10,7 +10,11 @@ schema:
     name: Security Training Resources
     url: "./"
 ---
-There are many resources developed by various organizations across different regions, so this framework will not go into detail. However, remember to take a bottom-up approach and tailor the security training to fit the organization's unique needs and threat model.
+Basic Digital Security: Prioritize training on basic digital security practices, such as setting strong passwords, using two-factor authentication, and recognizing phishing attacks. These foundational skills are essential for all users.
+
+There are many resources developed by various organizations across different regions, so this framework will not go into detail. 
+
+However, remember to take a bottom-up approach and tailor the security training to fit the organization's unique needs and threat model.
 
 **SAFETAG**
 SAFETAG is a professional audit framework that adapts traditional penetration testing and risk assessment methodologies to be relevant to smaller non-profit organizations based or operating in the developing world.

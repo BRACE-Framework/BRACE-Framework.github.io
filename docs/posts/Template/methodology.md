@@ -10,44 +10,99 @@ schema:
     name: Methodology of this Shutdown Contingency Framework
     url: "./"
 ---
-The framework can be broken down into different steps. 
+The framework can be broken down into different Stages and each stages there are steps trainers can choose from. 
 And there is templates / activities to help you fulfill each step. 
 (Some templates may be used in multiple steps)
 
-#### 1. Gather relevant information
-[Questionnaire](/docs/Template/Questionnaire.md)
-[Context Research Guide](/docs/Template/context-Research.md)
-#### 2. Identify the specific tasks that must be completed (e.g. publishing three articles online)
-[Questionnaire](/docs/Template/Questionnaire.md)
-[Needs Mapping](/docs/Template/Needs-Mapping.md)
-#### 3. Determine how an internet shutdown would interfere with these tasks, including related risks such as increased police searches
-[Needs Mapping](/docs/Template/Needs-Mapping.md)
-#### 4. Propose possible workarounds
-[Needs Mapping](/docs/Template/Needs-Mapping.md)
-[Shutdown Navigator Project](https://github.com/shutdowncircumvention/shutdowncircumvention.github.io)
-#### 5. Assess the feasibility of each proposed workaround, considering:
-&nbsp;&nbsp;&nbsp;&nbsp;a. Risks associated with implementing each workaround
-&nbsp;&nbsp;&nbsp;&nbsp;b. organization’s capacity to carry out the proposed solutions
+<div dir="ltr" align="left">
+    <table style="width: 100%; border-collapse: collapse;">
+        <tbody>
+            <tr>
+                <td>
+                    <div align="left">
+                        <table style="border: medium; border-collapse: collapse; width: 100%;">
+                            <tbody>
+                                <tr>
+                                    <td style="border: solid #000000 0.75pt; width: 25%;">
+                                        <p>METHOD</p>
+                                    </td>
+                                    <td style="border: solid #000000 0.75pt; width: 50%;">
+                                        <p>Content</p>
+                                    </td>
+                                    <td style="border: solid #000000 0.75pt; width: 25%;">
+                                        <p>ACTIVITY / TEMPLATE</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
+                                        <p><strong>I. Context Research</strong></p>
+                                    </td>
+                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
+                                        <p><strong>Regional Context Research</strong></p>
+                                        <p>Gather relevant political, cultural, geological background information</p>
+                                    </td>
+                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
+                                        <p><a href="about%3Ablank">Questionnaire</a></p>
+                                        <p><a href="about%3Ablank">Context Research Guide</a></p>
+                                    </td>
+                                </tr>
+                                <tr></tr>
+                                <tr>
+                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
+                                        <p><strong>Organizational Context Research</strong></p>
+                                        <p>Understand the background and operational nature of the organization</p>
+                                    </td>
+                                </tr>
+                                <tr></tr>
+                                <tr>
+                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
+                                        <p><strong>II. Mitigation Planning</strong></p>
+                                    </td>
+                                    <td style="border: solid #000000 0.75pt;">
+                                        <p><strong>Needs Mapping</strong></p>
+                                        <p>Guide interviewees in identifying and listing all their needs and workflows.</p><br>
+                                    </td>
+                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
+                                        <p><a href="https://github.com/shutdowncircumvention/shutdowncircumvention.github.io">Shutdown Navigator Project</a></p>
+                                        <p>Mitigation workplan</p>
+                                        <p>Impact Cost Matrix</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="3" style="border: solid #000000 0.75pt;">
+                                        <p><strong>Mitigation Planning 4</strong></p>
+                                        <p>For each work goal or need, assess how an internet shutdown would interfere with these tasks and propose possible workarounds.</p>
+                                    </td>
+                                </tr>
+                                <tr></tr>
+                                <tr></tr>
+                                <tr>
+                                    <td style="border: solid #000000 0.75pt;">
+                                        <p><strong>III. Create Action Plan</strong></p>
+                                    </td>
+                                    <td style="border: solid #000000 0.75pt;">
+                                        <p><strong>Create Action Plan</strong></p>
+                                        <p>Create an action plan with a timeline for shutdown preparation based on the chosen mitigation strategies</p>
+                                    </td>
+                                    <td style="border: solid #000000 0.75pt;">
+                                        <p>Action Plan</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
+                                        <p><strong>IV. Training and Preparing</strong></p>
+                                    </td>
+                                    <td style="border: solid #000000 0.75pt;">
+                                        <p><strong>Training and Familiarisation</strong></p>
+                                        <p>Provide training on internet shutdown knowledge, as well as basic security training tailored to their specific needs.</p><br>
+                                    </td>
+                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
+                                        <p>Security Training Resources</p>
+                                        <p><a href="https://github.com/shutdowncircumvention/shutdowncircumvention.github.io">Shutdown Navigator Project</a></p>
+                                        <p>Shutdown
 
-[Needs Mapping](/docs/Template/Needs-Mapping.md)
-[Questionnaire](/docs/Template/Questionnaire.md)
-[Context Research Guide](/docs/Template/context-Research.md)
-#### 6. Find countermeasures or circumvention strategies for each suggestion, if available; if not, suggest alternative options
+                                       
 
-#### 7. Draft a mitigation workflow to be followed during an internet shutdown
-[Mitigation Planning](/docs/Template/Mitigation-Planning.md)
-#### 8. Use a shutdown simulator to test the proposed workflow
-TBC
-#### 9. Refine the workflow based on the simulation results, if needed
-[Mitigation Planning](/docs/Template/Mitigation-Planning.md)
-#### 10. Identify any tools or systems that must be installed, configured, or prepared in advance
-[Mitigation Work Plan](/docs/Template/Mitigation-workplan.md)
-#### 11. Finalize the work plan and assign responsibilities
-[Mitigation Work Plan](/docs/Template/Mitigation-workplan.md)
-#### 12. Carry out tool installation, configuration, and familiarization
-[Tool Familiarisation](/docs/Template/familiarisation.md)
-#### 13. Security training
-[Security Training Resources](/docs/Template/security-training.md)
-#### 14. Adopt and adjust during the shutdown
-#### 15. Collect feedback during and after shutdown if possible
-[Feedback Collection](/docs/Template/security-training.md)
+
+For more detailed ToT explaination, please go to [User Guide](posts/User-Guide/tot/)]
+

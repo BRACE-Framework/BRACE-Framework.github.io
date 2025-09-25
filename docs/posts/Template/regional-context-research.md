@@ -1,22 +1,33 @@
 ---
 meta_title: "Content Research for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
-title: "Content Research"
+title: "Regional Content Research"
 description: TBC 
 cover: 
 schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Content Research for Contingency Planning for Internet Shutdown
+    name: Regional Content Research for Contingency Planning for Internet Shutdown
     url: "./"
 ---
-## Content Research
+## Regional Context Research
+
+- **Type of Shutdown**: Identify the nature and patterns of shutdowns that have occurred.
+- **Style of Repression**: Determine whether the repression is physical or digital.
+- **Common Repression Tactics**: Analyze the tactics commonly used in repressive situations.
+- **Geographical Factors**: Is it close to the border? under waht miltaty group? 
+- **Internet Speed and Usage Habits**: Assess the internet speed and the typical habits of users in the area.
+- **Tech Savviness**: Evaluate the level of technological proficiency among the population.
+- **Rural vs. Urban Dynamics**: Examine the differences in population distribution and access between rural and urban areas.
+-legal: is a certain tools illiegal such as VPN
 
 Analysis of context is the foundation of effective mitigation planning. identify the relevant regional and technological context   ensure that an trainer is basing their work on accurate assessments of the conditions the organization faces and that they are making informed considerations.
 
 No matter if you are form the country, even if you are familar with the country backgriund, different community, different region or differnt ethic groups may have very differetn context. 
 
 This component consists of desk research that is collected and analyzed by the trainer, as well as inputs from the interview component.
+
+Context Research
 
 ## Content category 
 
