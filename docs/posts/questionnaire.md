@@ -53,3 +53,47 @@ schema:
 ### Workflow
   1. What is the specific, day-to-day task or output your team needs to achieve? ((e.g. “publish 5 news stories per day” instead of a broad goal like “spread information”))
   2. Rate their importance of the tasks above as Must, High, Medium and Low
+
+
+
+
+  # Questionnaire (Click here to download)
+- Political and cultural Context: 
+  - What are the top, non-targeted digital threats in this region? List them out and indicate their commoness or likelyhood as low, medium and high. 
+  - 
+  - What are the top, non-targeted digital threats in this region?
+  - What are the top targeted digital threats facing organizations doing this work in this region / country?
+  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
+  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+
+- General Technolocal Context of the region/ country: 
+  - Internet penestrtion rate and overall habit of using difital divices,
+  - What are the top targeted digital threats facing organizations doing this work in this region / country? 
+  - how sophiciated and targetted digital threats facing organizations doing this work in this region / country? (Surveilcen? targetted survlence? Or it is more physical like police search?)
+  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
+  - What level of technology is available in the region?
+
+- Threat Context of the organization: 
+  - Internet penestrtion rate and overall habit of using difital divices,
+  - Organizational operational Context:
+  - What are the top, non-targeted digital threats in this region?
+  - What are the top targeted digital threats facing organizations doing this work in this region / country?
+  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
+  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+
+- Organizational operational Context: 
+  - Internet penestrtion rate and overall habit of using difital divices,
+  - 
+  - What are the top, non-targeted digital threats in this region?
+  - What are the top targeted digital threats facing organizations doing this work in this region / country?
+  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
+  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+
+- Organizational personnel Context: 
+  - Internet penestrtion rate and overall habit of using difital divices,
+  - 
+  - What are the top, non-targeted digital threats in this region?
+  - What are the top targeted digital threats facing organizations doing this work in this region / country?
+  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
+  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+
