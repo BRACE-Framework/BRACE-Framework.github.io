@@ -13,7 +13,11 @@ schema:
 ## Regional Context Research
 Context is the heart of effective mitigation planning. It shapes the circumventions you choose, the legality of the tools you use, how well a workaround functions, and how easily people can adapt to new technology.
 
-Even if you’re from the country or familiar with its background, it’s important to remember that different communities, regions, and ethnic groups can have very different contexts. This part of the process involves gathering and analyzing desk research by the trainer, along with insights from interviews.
+Even if you’re from the country or familiar with its background, it’s important to remember that different communities, regions, and ethnic groups can have very different contexts. 
+
+!!! abstract inline end "Activity"
+
+    This part of the process involves gathering and analyzing desk research by the trainer, along with insights from interviews.
 
 By the end of the regional context research, we aim to have a deep understanding of the following aspects, but not limited to:
 
