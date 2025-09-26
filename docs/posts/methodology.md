@@ -10,7 +10,7 @@ schema:
     name: Methodology of this Shutdown Contingency Framework
     url: "./"
 ---
-The framework can be broken down into different Stages and each stages there are steps trainers can choose from. 
+The framework is broken down into four Stages. The methodology is a refrence 
 And there is templates / activities to help you fulfill each step. 
 (Some templates may be used in multiple steps)
 
@@ -70,7 +70,7 @@ And there is templates / activities to help you fulfill each step.
                                 </tr>
                                 <tr>
                                     <td rowspan="3" style="border: solid #000000 0.75pt;">
-                                        <p><strong>Mitigation Planning 4</strong></p>
+                                        <p><strong>Mitigation Planning</strong></p>
                                         <p>For each work goal or need, assess how an internet shutdown would interfere with these tasks and propose possible workarounds.</p>
                                     </td>
                                 </tr>

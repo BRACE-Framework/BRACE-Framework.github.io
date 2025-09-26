@@ -1,7 +1,7 @@
 NOTE: this site is just a container for me to show this project to my trusted circle of friends, I don't code, so things might be broken, just focus on the idea and content. ;) 
 
 ## About Shutdown Resilience Framework 
-The Shutdown Resilience Framework serves small-scale civil society organizations and independent media houses facing internet shutdowns, outages, or limited connectivity. It helps them develop a tailored contingency work plan that considers their needs, threats, and capacities.
+The Shutdown Resilience Framework is a contingency planning tool designed to assist small-scale civil society organizations and independent media houses facing internet shutdowns, outages, or limited connectivity. It helps them develop a tailored contingency work plan that takes into account their unique needs, threats, and capacities.
 
 Facilitators of the Shutdown Resilience Framework can utilize the methodology and templates provided to lead a needs-based, holistic planning process. This process assists staff and leadership in drafting a contingency plan is feasible.
 
