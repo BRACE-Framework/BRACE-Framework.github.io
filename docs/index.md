@@ -1,12 +1,21 @@
 NOTE: this site is just a container for me to show this project to my trusted circle of friends, I don't code, so things might be broken, just focus on the idea and content. ;) 
 
-## Preface
+## About Shutdown Resilience Framework 
+The Shutdown Resilience Framework serves small-scale civil society organizations and independent media houses facing internet shutdowns, outages, or limited connectivity. It helps them develop a tailored contingency work plan that considers their needs, threats, and capacities.
 
-When it comes to digital security training, we recognize that there is no one-size-fits-all solution, which is why we always talk about threat modeling. However, when it comes to shutdown mitigation and contingency planning, this approach is often missing — the digital rights community is always having tool-oriented discussions focusing on promoting certain tools that claim to serve specific purposes at a given time. For example, mesh networks for local communication or VPNs for bypassing throttling or social media shutdowns.
+Facilitators of the Shutdown Resilience Framework can utilize the methodology and templates provided to lead a needs-based, holistic planning process. This process assists staff and leadership in drafting a contingency plan is feasible.
 
-**Mitigation planning should be tailored and factor in different elements.**
+### Current Problems 
 
-### Need and Context-based Tailored Approach
+When it comes to digital security training, we understand that there’s no one-size-fits-all solution, which is why we always emphasize the importance of threat modeling. However, this approach is often overlooked in shutdown mitigation and contingency planning. Many in the community tend to develop guides that focus primarily on tools.
+
+Additionally, a lot of shutdown circumvention guides see "gaining internet access" as the main goal, mainly promoting specific tools. For example, they might suggest using mesh networks for local communication or VPNs to bypass throttling or social media shutdowns.
+
+In reality, especially during a full blackout, "gaining internet access" can be nearly impossible or just too costly. For many organizations, what they really need might not be spending a fortune or dedicating half their working hours to regain internet access. Instead, they might benefit more from secure ways to store their footage for later distribution. Plus, while some guides recommend certain VPNs, using them in specific countries can be illegal and could lead to serious consequences for the organization.
+
+Therefore, the Shutdown Resilience Framework suggests a needs and context-based tailored approach to internet shutdown circumvention.
+
+## Need and Context-based Tailored Approach
 
 The perspectives of **cost, needs, and risk** specific to each community have yet to be fully considered. The approach to circumventing internet shutdowns should focus on integrating risk, cost, needs, and capability to enhance the feasibility of mitigation plans.
 
