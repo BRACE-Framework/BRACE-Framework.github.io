@@ -28,5 +28,11 @@ By the end of the regional context research, we aim to have a deep understanding
 - **Rural vs. Urban Dynamics**: Examine the differences in population distribution and access between rural and urban areas. For example, mesh networks tend to work better in densely populated areas.
 - **Legal Considerations**: Determine whether certain tools, such as VPNs, are illegal in the region.
 
+!!! warning
+
+    * Use VPNs or Tor to search if conducting the search from a country that is highly competitive with the organization's country, or is known to surveil.
+    * Maintain data about any targeted attacks and attacks affecting the organization's line of work secure.
+
+
 ## Template: Questionnaire
 [Questionnaire](questionnaire.md)
