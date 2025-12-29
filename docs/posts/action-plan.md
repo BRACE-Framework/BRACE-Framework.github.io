@@ -1,16 +1,42 @@
 ---
-meta_title: "Content Research for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
-title: "Content Research"
+meta_title: "Action Plan - BRACE Framework"
+title: "Action Plan"
 description: TBC 
 cover: 
 schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Needs Mapping for Contingency Planning for Internet Shutdown
+    name: Action Plan for Internet Shutdown
     url: "./"
 ---
+
 ## Needs Mapping
+
+**Summary**
+
+**Most, if not all, shutdown circumvention strategies need to be prepared in advance, whether it's planning labor division for non-technological solutions or setting up and training for tools. Once we decide which circumvention method to implement, a well-thought-out action plan is essential.**
+
+---
+
+Choosing a shutdown circumvention method is just the first step; preparing for it is crucial for effective execution, especially when panic sets in during a shutdown. It's important to become accustomed to the plan.
+
+### Division of Labor
+Non-technological circumvention often requires more manpower than technological ones. For example, if your plan is to transport footage on a USB stick, you need to outline who is responsible for each task and the route to take. Conducting a rehearsal can help ensure everything is covered.
+
+### Setting Up Tools
+Many tools require setup, such as configuring a local network or a remote server. Setting up and testing these solutions in advance—preferably close to the anticipated shutdown—is essential.
+
+### Installation
+For software and apps, the best strategy is to install and configure them properly before the shutdown. Users should practice and familiarize themselves with the tools. For Android devices, it is also possible to transfer the APK file physically instead of downloading it from the Google Play Store. However, having everything set up before the shutdown is ideal.
+
+### Practice and Security Training
+See [Security Training](docs/training).
+
+The action plan template can be used, but it's very important for facilitators to check in regularly with trainees to ensure everything is in place.
+
+### Action Plan
+
 
 <h2>📝 Editable Risk Assessment Table</h2>
 <p>Fill in the table below with relevant details.</p>

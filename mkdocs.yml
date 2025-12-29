@@ -1,4 +1,4 @@
-site_name: Shutdown Contingency Planning Framework
+site_name: BRACE - Building Readiness and Circumvention in Emergencies Framework
 site_description: A Holistic Framework & Templates for Internet Shutdown Contingency Planning 
 site_url: http://127.0.0.1:8000/
 theme:
@@ -69,15 +69,24 @@ plugins:
         - giscus.app/*
   - panzoom:
       full_screen: True # default False
-    
+  - search
+  - tags
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/tablecss.css
 
 extra_javascript:
   - https://unpkg.com/mermaid@10.1.0/dist/mermaid.min.js
 
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -105,16 +114,20 @@ copyright: |
 
 nav:
   - Home: index.md
-  - Methodology: posts/Template/methodology
-  - Create Your Training Plan: posts/create.md
-  - User Guide:
-      - ToT: posts/User-Guide/tot.md
-  - Activity:
-      - Questionnaire: posts/Template/questionnaire.md
-      - Context Research: posts/Template/context-Research.md
-      - Impact-Cost Matrix: posts/Template/Impact-Cost-Matrix.md
-      - Needs Mapping: posts/Template/Needs-Mapping.md
-      - Tool Familiarisation: posts/Template/familiarisation.md
-      - Mitigation-workplan: posts/Template/Mitigation-workplan.md
-      - Feedback Collection: posts/Template/feedback.md
-      - Security Training: posts/Template/security-training.md
+  - About: posts/about.md
+  - The BRACE Methodology: posts/methodology.md
+  - BRACE Activities:
+      - Regional Context Research: posts/regional-context-research.md
+      - Organizational Context Research: posts/organizational-context-research.md
+      - Needs Mapping: posts/needs-mapping.md
+      - Mitigation Planning: posts/mitigation-planning.md
+      - Action Plan: posts/feedback.md
+      - Training and Familiarisation: posts/training.md
+  - Resources and Templates:
+      - Questionnaire: 
+      - Workflow Breakdown Table:
+      - Mitigation Table:
+      - Impact-Cost Matrix: posts/impact-cost-matrix.md
+      - Action Plan:
+      - Security Training: posts/security-training.md
+      - [Shutdown.tools](https://www.shutdown.tools/)

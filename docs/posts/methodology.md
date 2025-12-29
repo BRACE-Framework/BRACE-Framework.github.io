@@ -1,5 +1,5 @@
 ---
-meta_title: "Methodology of this Shutdown Contingency Framework"
+meta_title: "Methodology of BRACE Framework"
 title: "Methodology"
 description: TBC 
 cover: 
@@ -7,102 +7,72 @@ schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Methodology of this Shutdown Contingency Framework
+    name: Methodology of BRACE Framework
     url: "./"
 ---
-The framework is broken down into four Stages. The methodology is a refrence 
-And there is templates / activities to help you fulfill each step. 
-(Some templates may be used in multiple steps)
+# Framework Methodology
 
-<div dir="ltr" align="left">
-    <table style="width: 100%; border-collapse: collapse;">
-        <tbody>
-            <tr>
-                <td>
-                    <div align="left">
-                        <table style="border: medium; border-collapse: collapse; width: 100%;">
-                            <tbody>
-                                <tr>
-                                    <td style="border: solid #000000 0.75pt; width: 25%;">
-                                        <p>METHOD</p>
-                                    </td>
-                                    <td style="border: solid #000000 0.75pt; width: 50%;">
-                                        <p>Content</p>
-                                    </td>
-                                    <td style="border: solid #000000 0.75pt; width: 25%;">
-                                        <p>ACTIVITY / TEMPLATE</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
-                                        <p><strong>I. Context Research</strong></p>
-                                    </td>
-                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
-                                        <p><strong>Regional Context Research</strong></p>
-                                        <p>Gather relevant political, cultural, geological background information</p>
-                                    </td>
-                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
-                                        <p><a href="about%3Ablank">Questionnaire</a></p>
-                                        <p><a href="about%3Ablank">Context Research Guide</a></p>
-                                    </td>
-                                </tr>
-                                <tr></tr>
-                                <tr>
-                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
-                                        <p><strong>Organizational Context Research</strong></p>
-                                        <p>Understand the background and operational nature of the organization</p>
-                                    </td>
-                                </tr>
-                                <tr></tr>
-                                <tr>
-                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
-                                        <p><strong>II. Mitigation Planning</strong></p>
-                                    </td>
-                                    <td style="border: solid #000000 0.75pt;">
-                                        <p><strong>Needs Mapping</strong></p>
-                                        <p>Guide interviewees in identifying and listing all their needs and workflows.</p><br>
-                                    </td>
-                                    <td rowspan="4" style="border: solid #000000 0.75pt;">
-                                        <p><a href="https://github.com/shutdowncircumvention/shutdowncircumvention.github.io">Shutdown Navigator Project</a></p>
-                                        <p>Mitigation workplan</p>
-                                        <p>Impact Cost Matrix</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="3" style="border: solid #000000 0.75pt;">
-                                        <p><strong>Mitigation Planning</strong></p>
-                                        <p>For each work goal or need, assess how an internet shutdown would interfere with these tasks and propose possible workarounds.</p>
-                                    </td>
-                                </tr>
-                                <tr></tr>
-                                <tr></tr>
-                                <tr>
-                                    <td style="border: solid #000000 0.75pt;">
-                                        <p><strong>III. Create Action Plan</strong></p>
-                                    </td>
-                                    <td style="border: solid #000000 0.75pt;">
-                                        <p><strong>Create Action Plan</strong></p>
-                                        <p>Create an action plan with a timeline for shutdown preparation based on the chosen mitigation strategies</p>
-                                    </td>
-                                    <td style="border: solid #000000 0.75pt;">
-                                        <p>Action Plan</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
-                                        <p><strong>IV. Training and Preparing</strong></p>
-                                    </td>
-                                    <td style="border: solid #000000 0.75pt;">
-                                        <p><strong>Training and Familiarisation</strong></p>
-                                        <p>Provide training on internet shutdown knowledge, as well as basic security training tailored to their specific needs.</p><br>
-                                    </td>
-                                    <td rowspan="2" style="border: solid #000000 0.75pt;">
-                                        <p>Security Training Resources</p>
-                                        <p><a href="https://github.com/shutdowncircumvention/shutdowncircumvention.github.io">Shutdown Navigator Project</a></p>
-                                        <p>Shutdown
+The BRACE framework is broken down into four stages: it is basically a **threat modeling → needs/workflow mapping → mitigation/design pipeline, with a final layer on action planning**.
 
-                                       
+This framework emphasizes methodology rather than specific tools. The focus is on how tech and security personnel can determine the most suitable circumvention strategies for their trainees or organization. There is no one "perfect" tool; instead, the goal is to find "the perfect tool" that best meets your needs.
 
+Essentially, this methodology serves as a reference for thinking about internet outages. While the BRACE framework offers a useful structure, skilled facilitators can adapt the process as long as trainees remain well-informed and engaged in discussions.
 
-For more detailed ToT explaination, please go to [User Guide](posts/User-Guide/tot/)]
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:bold">METHOD</span></th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Content&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>ACTIVITY / TEMPLATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="4"><span style="font-weight:700;font-style:normal;text-decoration:none">I. Context Research</span></td>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Regional Context Research</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Gather relevant political, cultural, geological background information</span></td>
+    <td class="tg-0lax" rowspan="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href="https://www.tablesgenerator.com/about%3Ablank">Questionnaire</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href="https://www.tablesgenerator.com/about%3Ablank">Context Research Guide</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Organizational Context Research</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Understand the background and operational nature of the organization</span></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">II. Needs Mapping</span></td>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Needs &amp; Mapping</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Guide interviewees in identifying and listing all their needs and workflows.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Workflow Breakdown Table</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">III. Mitigation Planning</span></td>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Mitigation Planning</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">For each work goal or need, assess how an internet shutdown would interfere with these tasks and propose possible workarounds.</span></td>
+    <td class="tg-0lax">                                         <br><span style="font-weight:400;font-style:normal;text-decoration:none">Mitigation Table</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Impact Cost Matrix</span><br>Shutdown.tools</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">IV. Create Action Plan &amp; </span><br><span style="font-weight:700;font-style:normal;text-decoration:none">Training</span></td>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Create Action Plan</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Create an action plan with a timeline for shutdown preparation based on the chosen mitigation strategies</span></td>
+    <td class="tg-0lax">Action Plan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Training and Familiarisation</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Provide training on internet shutdown knowledge, as well as basic security training tailored to their specific needs.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Security Training Resources</span></td>
+  </tr>
+</tbody></table>
 
+For more detailed ToT explaination, please go to [User Guide](posts/User-Guide/tot/)] (TBC)
+
+## Navigating this Framework
+The BRACE framework includes four steps, each with guidelines and templates. 
+
+While the BRACE framework provides a helpful structure, skilled facilitators can adapt the process as long as the trainees are well-informed and engaged in discussions.
+
+The activities can be adjusted or customized to suit specific situations.

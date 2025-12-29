@@ -1,5 +1,5 @@
 ---
-meta_title: "Content Research for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
+meta_title: "Mitigation Planning for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
 title: "Content Research"
 description: TBC 
 cover: 
@@ -7,188 +7,452 @@ schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Needs Mapping for Contingency Planning for Internet Shutdown
+    name: Mitigation Planning for Contingency Planning for Internet Shutdown
     url: "./"
 ---
-## Needs Mapping
 
-There are several factors that must be taken into consideration.
+# Mitigation Planning
 
-- **Needs**: Identify the daily and weekly tasks that must be maintained. For example:
-  - Journalists need to publish updates on elections and protests.
-  - Human rights advocates focus on mitigation planning.
+## Summary
 
-- **Workflow**: Break down the workflow step by step to identify alternative solutions.
+**During the needs mapping process, we identified the organization's goals and barriers faced during internet outages. We can then develop solutions to address these obstacles, considering their risks, impacts, and capacity.**
 
-- **Interference**: Assess how shutdowns can impact the ability to achieve usual work objectives.
+---
+Now that we have figured out the scope of work for the organization and what is hindering it from achieving its operational goals, everything else revolves around mitigating these obstacles or finding alternatives.
 
-- **Risk**: Evaluate the risks involved in each workflow step and the potential suggested mitigations.
+### 5 Questions to Guide Your Mitigation Planning
+We can ask _**five questions**_ to help identify solutions. We aim to establish a table for each need.
 
-- **Cost**: Determine the financial, time, and manpower costs involved, and assess whether the organization is willing and capable of meeting these requirements.
+1. **Need**: What do I need?
+2. **Options**: What actions/tools could help me achieve this goal?
+3. **Impact**: How much does it improve my work?
+4. **Cost**: How much will it cost?
+5. **Risk**: What are the associated risks?
 
+!!! abstract "Defining the scope"
 
-Determine how an internet shutdown would interfere with these tasks, including related risks such as increased police searchesIdentify the specific tasks that must be completed (e.g. publishing three articles online)
-Propose possible workarounds
-- Find countermeasures or circumvention strategies for each suggestion, if available; if not, suggest alternative options.
-- Draft a mitigation workflow to be followed during an internet shutdown
+    It's crucial to determine how "broad" to define the "Necessary Actions." Should it be as general as "deliver news to the audience," or should it specify each workflow step, like "send image to editor" and "editor publishes image"? This decision depends on the severity of the shutdown and your capacity.
 
+    For example, a small city newsroom that can afford satellite internet has a quick solution by regaining access. In contrast, a resource-limited newsroom, where reporters can't return daily, will require alternative methods for each step, such as protecting footage while filming on the frontline and finding ways to transfer that footage for publication.
 
-<h2>📝 Editable Risk Assessment Table</h2>
-<p>Fill in the table below with relevant details.</p>
+We can lay out the thinking process in a table. 
 
-<table id="editable-table">
-    <thead>
-        <tr>
-            <th>#</th>
-            <th>Goal</th>
-            <th>What procedures/ data are involved?</th>
-            <th>Who is involved?</th>
-            <th>What risks or constraints will they encounter?</th>
-            <th>How likely the risk is going to happen?</th>
-            <th>Current circumvention method</th>
-            <th>Potential circumvention</th>
-            <th>Any possible risk?</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td contenteditable="true"rowspan="3">1</td>
-            <td contenteditable="true"rowspan="3"><b>Publish news</b></td>
-            <td contenteditable="true">Video footage from live coverage</td>
-            <td contenteditable="true">Reporter</td>
-            <td contenteditable="true">Device/SD card confiscation</td>
-            <td contenteditable="true">High</td>
-            <td contenteditable="true">None</td>
-            <td contenteditable="true">Tella app</td>
-            <td contenteditable="true">Device investigation</td>
-        </tr>
-        <tr>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true">Receiving footage/photos from whistleblowers</td>
-            <td contenteditable="true">Citizens/activists</td>
-            <td contenteditable="true">Lack of ways to transfer files without internet</td>
-            <td contenteditable="true">High</td>
-            <td contenteditable="true">None</td>
-            <td contenteditable="true">VPN</td>
-            <td contenteditable="true">Is VPN legal?</td>
-        </tr>
-        <tr>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true">Surveillance</td>
-            <td contenteditable="true">Medium</td>
-            <td contenteditable="true">Use Signal</td>
-            <td contenteditable="true">Face-to-face handing over a USB drive</td>
-            <td contenteditable="true">Manpower problem / Possibility of an undercover cop</td>
-        </tr>
-        <tr>
-            <td contenteditable="true"rowspan="3">2</td>
-            <td contenteditable="true"rowspan="3"><b>Reach audience</b></td>
-            <td contenteditable="true">Audience having access to our content</td>
-            <td contenteditable="true">Editor</td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-        </tr>
-        <tr>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true">Audience</td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-            <td contenteditable="true"></td>
-        </tr>
-    </tbody>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th colspan="5">Identify Necessary Actions</th>
+  </tr>
+  <tr>
+    <th><b>Need</b><br>What do I need?</th>
+    <th><b>Options</b><br>What actions/tools could help me achieve this goal?</th>
+    <th><b>Impact</b><br>How much does it improve my work?</th>
+    <th><b>Cost</b><br>How much will it cost?</th>
+    <th><b>Risk</b><br>What are the associated risks?</th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
 </table>
 
-<button onclick="saveTable()">💾 Save Table</button>
 
-<script>
-    function saveTable() {
-        let table = document.getElementById("editable-table");
-        let rows = table.getElementsByTagName("tr");
-        let data = [];
+## STEPS 
 
-        for (let i = 1; i < rows.length; i++) {
-            let cells = rows[i].getElementsByTagName("td");
-            let rowData = Array.from(cells).map(cell => cell.innerText);
-            data.push(rowData);
-        }
+### 1. Identify Necessary Actions ("Need")
+We need to consider what it takes to achieve the goals identified earlier, as that’s what we truly need.
 
-        localStorage.setItem("editableRiskTable", JSON.stringify(data));
-        alert("✅ Table saved! (It will stay even after refresh)");
-    }
+There can be different solutions for the same goal. When considering their needs, organizations should list as many potentially helpful options as possible. Don't limit yourself to just regaining internet access. While a technological solution may be the most efficient, it's important to think critically—there may be other ways to achieve your goals. These choices can lead to significantly different solutions, risks, and costs.
 
-    window.onload = function() {
-        let savedData = localStorage.getItem("editableRiskTable");
-        if (savedData) {
-            let data = JSON.parse(savedData);
-            let table = document.getElementById("editable-table").getElementsByTagName("tbody")[0];
-            table.innerHTML = "";
+For example, for a newsroom aiming to inform the international community about events in their country, one solution could be regaining internet access, while another could be preserving evidence until internet access is restored.
 
-            data.forEach(row => {
-                let newRow = table.insertRow();
-                row.forEach((value, index) => {
-                    let cell = newRow.insertCell(index);
-                    cell.contentEditable = "true";
-                    cell.innerText = value;
-                });
-            });
-        }
-    }
-</script>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax" colspan="5">Identify Necessary Actions</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold">Need</span><br>What do I need?</td>
+    <td class="tg-0lax"><span style="font-weight:bold">Options</span><br>What actions/tools could help me achieve this goal?</td>
+    <td class="tg-0lax"><span style="font-weight:bold">Impact</span><br>How much does it improve my work?</td>
+    <td class="tg-0lax"><span style="font-weight:bold">Cost</span><br>How much will it cost?</td>
+    <td class="tg-0lax"><span style="font-weight:bold">Risk</span><br>What are the associated risks?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1. Internet Access</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2. Transfer footage physically</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> 3. Offline communication methods</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+</tbody></table>
+
+### 2. Explore Potential Solutions ("Options")
+Once we determine what we need, we can explore options to achieve it.
+
+There are different categories of solutions, so we should keep our imagination open to all of them:
+
+- **Software and Apps:** Numerous software programs and mobile applications have been developed for various purposes.
+
+- **Connectivity-Based Solutions:** Hardware based alternative connection. Examples include using alternative SIM cards or roaming services, satellite-based internet such as Starlink.
+
+- **Advanced Technological Solutions:** Some tools require more involved technical setups beyond basic connectivity, such as configuring local mesh networks or deploying custom hardware solutions.
+
+- **Legacy Technology:** When internet access is unavailable, reverting to legacy technologies like fax machines and SMS is common.
+
+- **Non-Technological Solutions:** Circumvention doesn’t always need to be technical. For example, storing data on a USB stick and delivering it to someone in a nearby city can be an effective solution.
+
+[Shutdown.Tools](https://shutdown.tools) is another resource that provides a collection of tools, websites, and strategies for human rights defenders, journalists, and others during internet outages.
 
 <style>
-    :root {
-        --pearl: #f5f1e0;
-        --vanilla: #eceecc;
-        --cambridge-blue: #b5cfc2;
-        --air-superiority-blue: #a0c5da;
-        --blue-munsell: #52aac6;
-    }
+  .decision-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
 
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 10px;
-    }
-    th, td {
-        border: 1px solid var(--cambridge-blue);
-        padding: 8px;
-        text-align: center;
-    }
-    th {
-        background-color: var(--blue-munsell);
-        color: white;
-    }
-    td {
-        background-color: var(--pearl);
-    }
-    td[contenteditable="true"] {
-        background-color: white;
-    }
-    button {
-        margin-top: 10px;
-        padding: 10px;
-        background-color: var(--air-superiority-blue);
-        color: white;
-        border: none;
-        cursor: pointer;
-        font-size: 16px;
-        border-radius: 5px;
-    }
-    button:hover {
-        background-color: var(--vanilla);
-    }
+  .decision-table th,
+  .decision-table td {
+    border: 1px solid #555;
+    padding: 10px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  .decision-table thead th {
+    font-weight: bold;
+  }
+
+  .section-title {
+    text-align: center;
+    font-weight: bold;
+  }
 </style>
 
+<table class="decision-table">
+  <thead>
+    <tr>
+      <th colspan="5" class="section-title">
+        Transfer media file (long distance but within country)
+      </th>
+    </tr>
+    <tr>
+      <th>Need</th>
+      <th>Options</th>
+      <th>Impact</th>
+      <th>Cost</th>
+      <th>Risk</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 1. Internet Access -->
+    <tr>
+      <td rowspan="2"><strong>1. Internet Access</strong></td>
+      <td>E-SIM from nearby country</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Starlink</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- 2. Transfer footage physically -->
+    <tr>
+      <td rowspan="2"><strong>2. Transfer footage physically</strong></td>
+      <td>Physical transfers (USB at office — <strong>encryption required</strong>)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tella app</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- 3. Offline communication methods -->
+    <tr>
+      <td rowspan="5"><strong>3. Offline communication methods</strong></td>
+      <td>ShoutSMS app</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Deku SMS app (SMS)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dash Chat app (Mesh network)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Delta Chat (SMTP)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qual</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
+### 3. Outline Associated Pros & Cons ("Impact" & "Cost" & "Risks")
+
+Lastly, we need to outline the impact, cost and risks that these circumventions may bring.
+
+#### Impact
+
+#### Cost 
+
+
+
+#### Risks
+
+##### Navigating Risks During Internet Shutdowns
+
+In countries facing conflict or internet shutdowns, citizens often deal with relatively bigger risks. There are **physical risks**, like police raids and searches, and **digital risks**, such as surveillance and cyberattacks.
+
+When the internet goes dark, these dangers often increase. Authorities frequently move more police or military into the streets while ramping up surveillance to keep control.
+
+##### Balancing Tools and Risks
+
+Every tool used to stay connected or share information comes with its own set of risks. When choosing a solution, it is vital to weigh these carefully and ensure everyone involved is fully informed. For example:
+
+* **Physical Transfers:** If you move footage or data using a physical disk or USB drive, you face the risk of it being found during a police search.
+* **Device Security:** Carrying sensitive conversations or videos on your phone is dangerous at checkpoints, where security forces may force you to unlock your device.
+* **Old Technology:** Using "legacy" tools like SMS or standard phone calls is highly risky because they are not encrypted, meaning the government can easily listen in or read your messages.
+* **Legality**: Certain technologies, like VPNs, may be illegal in specific countries. Organizations must be fully informed about these risks.
+
+##### Risk Assessment 
+
+Because every situation is different, it is important to use a risk assessment tool to map out your specific dangers. There are many resources available online from different organizations that can help you plan a safety strategy.
+
+One useful resource is the Security Workbook by Frontline Defenders: [Security Workbook](https://www.frontlinedefenders.org/en/programme/risk-analysis-protection-planning).
+
+!!! abstract
+
+    For example, if using encrypted SMS tools in a highly surveilled country, authorities may notice the cipher texts being sent and draw attention. Physical transfer may be less effective and riskier if there are checkpoints in the area.
+<style>
+  .decision-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+
+  .decision-table th,
+  .decision-table td {
+    border: 1px solid #555;
+    padding: 10px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  .decision-table thead th {
+    font-weight: bold;
+  }
+
+  .section-title {
+    text-align: center;
+    font-weight: bold;
+  }
+</style>
+
+<table class="decision-table">
+  <thead>
+    <tr>
+      <th colspan="5" class="section-title">
+        Transfer media file (long distance but within country)
+      </th>
+    </tr>
+    <tr>
+      <th>Need</th>
+      <th>Options</th>
+      <th>Impact</th>
+      <th>Cost</th>
+      <th>Risk</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <!-- 1. Internet Access -->
+    <tr>
+      <td rowspan="2"><strong>1. Internet Access</strong></td>
+      <td>E-SIM from nearby country</td>
+      <td>High</td>
+      <td>
+        – High<br>
+        – Time-consuming to arrange a human proxy to purchase
+      </td>
+      <td>
+        – Might not work during shutdown
+      </td>
+    </tr>
+    <tr>
+      <td>Starlink</td>
+      <td>High</td>
+      <td>
+        – ~$120 / month<br>
+        – High
+      </td>
+      <td>
+        – Detectable
+      </td>
+    </tr>
+    <!-- 2. Transfer footage physically -->
+    <tr>
+      <td rowspan="2"><strong>2. Transfer footage physically</strong></td>
+      <td>
+        Physical transfers (USB at office — <strong>encryption required</strong>)
+      </td>
+      <td>Medium</td>
+      <td>
+        – Medium<br>
+        – Staff need to move around the city where there might be traffic
+      </td>
+      <td>
+        – Arrest / raid
+      </td>
+    </tr>
+    <tr>
+      <td>Tella app</td>
+      <td>Medium</td>
+      <td>
+        – Free<br>
+        – Need to install, download, and set up
+      </td>
+      <td>
+        – Arrest / raid
+      </td>
+    </tr>
+    <!-- 3. Offline communication methods -->
+    <tr>
+      <td rowspan="5"><strong>3. Offline communication methods</strong></td>
+      <td>ShoutSMS app</td>
+      <td>High</td>
+      <td>
+        – High SMS cost<br>
+        – Need to install, download, and set up
+      </td>
+      <td>
+        – SMS cipher text being flagged<br>
+        – SMS network might get shut down
+      </td>
+    </tr>
+    <tr>
+      <td>Deku SMS app (SMS)</td>
+      <td>Medium</td>
+      <td>
+        – High SMS cost<br>
+        – Need to install, download, and set up
+      </td>
+      <td>
+        – SMS cipher text being flagged<br>
+        – SMS network might get shut down
+      </td>
+    </tr>
+    <tr>
+      <td>Dash Chat app (Mesh network)</td>
+      <td>High</td>
+      <td>
+        – None
+      </td>
+      <td>
+        – Phone battery drains fast<br>
+        – Device checks
+      </td>
+    </tr>
+    <tr>
+      <td>Delta Chat (SMTP)</td>
+      <td>Medium</td>
+      <td>
+        – Need to install, download, and set up
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qual</td>
+      <td>Medium</td>
+      <td>
+        – Need to install, download, and set up
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+Anyhow, we've laid out the possible circumventions.
+
+### 4. Select the Most Suitable Mitigation
+
+Lastly, we need to outline the risks that these circumventions may bring.
+
+There are different tools available to assess these factors. While helpful, they are not compulsory: 
+- **Cost Impact Matrix**: Cost-effectiveness can be plotted on a Cost Impact Matrix, which helps identify the most cost-effective circumvention measures. This way, you can evaluate which circumventions are worth pursuing. Here, "cost" includes not just money but also manpower, time, etc. Sometimes the cost is too high for a lower-priority need, making it not worth pursuing. Conversely, if the goal is critical, it may be worth pursuing despite a high cost.
+
+!!! abstract
+
+    For example, a newsroom that is the only bilingual media outlet in the country, with a large following and frequent mentions by Western media, must be able to spread news outside the country.
+
+### Things to Consider While Developing Mitigation Strategies:
+- **Risk**: While effective, some circumventions carry significant risk. 
+- **Legality**: Certain technologies, like VPNs, may be illegal in specific countries. Organizations must be fully informed about these risks.
+
+- **Be Creative**: Sometimes, we focus too much on technological solutions, but legacy circumventions, such as a USB dead drop, could be more useful. Avoid letting our technical mindset limit our imagination for circumvention. In some cases, gaining internet access might not be the best solution; preserving media files and transferring them later may be more beneficial.
+
+---
+## Templates Download
+
+Risk Matrix
+Tables 

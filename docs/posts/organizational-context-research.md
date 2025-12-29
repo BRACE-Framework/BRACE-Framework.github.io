@@ -10,6 +10,8 @@ schema:
     name: Organizational Content Research for Contingency Planning for Internet Shutdown
     url: "./"
 ---
+
+they know their siutation the best, but you have the technical expertise, so it has to be interactive and not top down you use your knoelwge to help
 ## Organizational Context Research
 Even within the same city, the nature of an organization can significantly affect its risks and needs, leading to vastly different effective circumvention strategies. 
 
