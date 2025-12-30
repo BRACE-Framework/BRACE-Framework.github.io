@@ -1,6 +1,6 @@
 ---
 meta_title: "About - Building Readiness and Circumvention in Emergencies"
-title: "About this Framework"
+title: "About BRACE Framework"
 description: TBC 
 cover: 
 schema:

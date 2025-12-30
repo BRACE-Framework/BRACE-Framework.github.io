@@ -1,5 +1,5 @@
 ---
-meta_title: "Content Research for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
+meta_title: "Content Research for Contingency Planning for Internet Shutdown - BRACE Framework"
 title: "Regional Content Research"
 description: TBC 
 cover: 
@@ -7,7 +7,7 @@ schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Regional Content Research for Contingency Planning for Internet Shutdown
+    name: Regional Content Research for Contingency Planning for Internet Shutdown - BRACE Framework
     url: "./"
 ---
 ## Regional Context Research

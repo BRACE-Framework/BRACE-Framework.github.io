@@ -1,5 +1,5 @@
 site_name: BRACE - Building Readiness and Circumvention in Emergencies Framework
-site_description: A Holistic Framework & Templates for Internet Shutdown Contingency Planning 
+site_description: BRACE is a curricula, a methodology, and a framework for trainers to assist CSOs to create a customized contingency work plan for internet outage.  
 site_url: http://127.0.0.1:8000/
 theme:
   name: material
@@ -124,7 +124,7 @@ nav:
       - Action Plan: posts/feedback.md
       - Training and Familiarisation: posts/training.md
   - Resources and Templates:
-      - Questionnaire: 
+      - Questionnaire: posts/questionnaire.md
       - Workflow Breakdown Table:
       - Mitigation Table:
       - Impact-Cost Matrix: posts/impact-cost-matrix.md

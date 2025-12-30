@@ -35,7 +35,7 @@ We can ask _**five questions**_ to help identify solutions. We aim to establish 
 
     For example, a small city newsroom that can afford satellite internet has a quick solution by regaining access. In contrast, a resource-limited newsroom, where reporters can't return daily, will require alternative methods for each step, such as protecting footage while filming on the frontline and finding ways to transfer that footage for publication.
 
-We can lay out the thinking process in a table. 
+We can lay out the thinking process in a **Circumvention Identifying Table**. 
 
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -452,7 +452,15 @@ There are different tools available to assess these factors. While helpful, they
 - **Be Creative**: Sometimes, we focus too much on technological solutions, but legacy circumventions, such as a USB dead drop, could be more useful. Avoid letting our technical mindset limit our imagination for circumvention. In some cases, gaining internet access might not be the best solution; preserving media files and transferring them later may be more beneficial.
 
 ---
-## Templates Download
 
-Risk Matrix
-Tables 
+## Templates 
+
+### Impact-Cost Matrix
+
+- **PDF for Printing:** [Download Impact Matrix](docs/images/impact-matrix.pdf)  
+- **Google Slides:** [View Impact-Cost Matrix](https://docs.google.com/presentation/d/1bW8y42fkizpjpLjoLpMuU_nIynkZZhLBd8I4pNG_MAg/edit?usp=sharing)
+
+### Circumvention Identifying Table
+
+- **Google Slides:** [View Circumvention Identifying Table](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.0)  
+- **PDF for Printing:** [Download Circumvention Identifying Table](docs/images/BRACE-Circumvention-Identifying-Table.pdf)

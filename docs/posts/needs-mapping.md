@@ -1,13 +1,13 @@
 ---
-meta_title: "Needs mapping for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
-title: "Needs Mapping"
+meta_title: "Needs Mapping for Contingency Planning for Internet Shutdown - BRACE Framework"
+title: "Needs Mapping - BRACE Framework"
 description: TBC 
 cover: 
 schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Needs Mapping for Contingency Planning for Internet Shutdown
+    name: Needs Mapping for Contingency Planning for Internet Shutdown - BRACE Framework
     url: "./"
 ---
 ## Needs Mapping
@@ -223,10 +223,25 @@ Now, list the challenge or constraints the organization might face that will sto
 
 ---
 
-P.S. There are many resources available for threat modeling, so we won’t cover that in detail. However, it’s important to approach threat modeling carefully. If not done properly, it can lead to planned circumventions that introduce greater threats that organizations may not recognize. 
+!!! abstract
+    There are many resources available for threat modeling, so we won’t cover that in detail. However, it’s important to approach threat modeling carefully. If not done properly, it can lead to planned circumventions that introduce greater threats that organizations may not recognize. 
 
-Some useful resources include:
+---
+
+## Templates & Resources
+
+### Needs Mapping Table
+
+- **PDF for Printing:** [Download Needs Mapping Table
+](docs/images/BRACE_Needs-Mapping-Table.pdf)  
+- **Google Slides:** [View Impact-Cost Matrix](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.x0uahg6wk0nv)
+
+### Circumvention Identifying Table
+
+- **Google Slides:** [View Circumvention Identifying Table](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.0)  
+- **PDF for Printing:** [Download Circumvention Identifying Table](docs/images/BRACE-Circumvention-Identifying-Table.pdf)
+
+### Resources for Threats modelling and risk assessment 
 - **Frontline Defender**: [Analyzing Risks and Threats in Rural Communities](https://www.frontlinedefenders.org/en/module-13-analysing-risks-threats-rural-communities)
 - **Security Education Companion**: [Threat Modeling Activity Handout (English/Spanish)](https://www.securityeducationcompanion.org/materials/threat-modeling-activity-handout-english-spanish)
 - **Freedom of the Press Foundation**: [Threat Modeling Module](https://freedom.press/digisec/blog/threat-modeling-module/)
-

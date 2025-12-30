@@ -11,92 +11,105 @@ schema:
     url: "./"
 ---
 # Questionnaire
-### BACKGROUND
-  1. How many staff are there?  
-  2. How is your organization structured (e.g., departments or teams)?  
-  2. Languages used in office
-  3. Who/what external parties or individuals do you work with, and for what purposes? Consider both thematic and regional, in-country versus diaspora. (Example: Journalists, lawyers, activists, dissidents, local politicians, women, LGBTI, youth)
-  4. Does your organization have a physical office?  
-  5. Does your team primarily work from the office?   
-  6. How much travel does your team engage in, and to where? 
-  7. Do you have a dedicated IT staff or department? 
----
-### Internet Outage
-  1. Has Internet Shutdown or outage affected your country ever? is it delibrate? 
-  2. If you have experncie any sort of internet outage, despcibe it, eg duration, scales, cause, and how it happened. iF POSSIBLE, share technical detail. 
-  2. Can you share your personal experience with the Internet Shutdown event? 
-  4. how did you circumvetion the oytage last times, if you did? 
----
 
-### Digital Safety
-  1. Is your organization using full disk encryption for data storage?   
-  2. Are external memory devices encrypted?   
-  3. Do you provide staff with information about the current country situation before travel?   
-  4. Have staff members received previous digital security training?  
-  5. Does your organization require regular digital security training for staff?   
-  6. Are specific security measures in place at your office location?  
-  7. Has your organization experienced any cyberattacks or physical attacks?   
-  8. Have any of your staff members experienced cyberattacks or physical attacks individually?   
-  9. If yes for the above, please provide details.
+## Organization & Work Reality
 
----
+1. Type of group:  
+   1. Informal civic group   
+   2. CSO   
+   3. Newsroom   
+   4. Collective   
+   5. Individual  
+   6. Other, please specify: \_\_\_\_\_  
+2. Number of people regularly involved in work:  
+3. Where do team members usually work from?  
+   1. Physical office or shared workspace  
+   2. Remotely (within the same country)  
+   3. Remotely (across different countries)  
+   4. Frequently changing or temporary locations (e.g. travel, field-based work, displacement)  
+4. What are your core activities? (max 3\)  
+   1. \_\_\_\_\_  
+   2. \_\_\_\_\_  
+   3. \_\_\_\_\_  
+5. For each activity, what is the minimum output needed to keep it alive ((e.g. “1 update/day”, “coordination calls”, “fund transfers”)  
+   1. \_\_\_\_\_  
+   2. \_\_\_\_\_  
+   3. \_\_\_\_\_ 
 
-### Technical Background
-  1. How tech-savvy is your team, on the scale 1-5? [1–5]  
-  2. Describe your office's internet infrastructure setup (e.g., NAS, intranet).  
-  3. Who maintains the router/security in your physical office? Is it properly isolated from other tenants?  
-  4. How dependent is your work on internet access, on the scale 1-5? [1–5]  
-  5. Do you provide dedicated devices for staff use?   
-  6. Are there standard configurations (e.g., IT staff setting up individual computers)?  
-  7. How are contingency plans communicated to staff, and how often are they practiced?  
-  8. Can emergency contacts assist in reaching you or your team?
+## Shutdown Experience 
 
----
+6. Has your country experienced an internet shutdown in the past 24 months?  
+   1. Yes  
+   2. No   
+   3. Unsure  
+7. During the last shutdown, what happened first?  
+   1. Internal comms failed  
+   2. External publishing failed  
+   3. Coordination became chaotic  
+   4. Safety risks increased  
+8. What did you actually do to keep working (if at all)?  
+   1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Workflow
-  1. What is the specific, day-to-day task or output your team needs to achieve? ((e.g. “publish 5 news stories per day” instead of a broad goal like “spread information”))
-  2. Rate their importance of the tasks above as Must, High, Medium and Low
+## Communication Under Stress
 
+9. What tools do you normally use to communicate internally?  
+   1. \_\_\_\_\_\_\_  
+   2. \_\_\_\_\_\_\_  
+   3. \_\_\_\_\_\_\_  
+10. Which of these stopped working during disruptions?  
+    1. \_\_\_\_\_\_\_  
+    2. \_\_\_\_\_\_\_  
+    3. \_\_\_\_\_\_\_  
+11. If your primary tool stopped tomorrow, what is your fallback?  
+    1. We have a fallback, please specify: \_\_\_\_  
+    2. We improvise  
+    3. We stop
 
+## Decision-Making & Authority
 
+12. During a disruption, who decides what to do?  
+    1. One person  
+    2. Small group  
+    3. Everyone  
+    4. Unclear  
+13. Is this agreed in advance?  
+    1. Yes  
+    2. Informal   
+    3. No  
+14. If leadership is unreachable, what happens?  
+    1. \_\_\_\_\_\_\_
 
-  # Questionnaire (Click here to download)
-- Political and cultural Context: 
-  - What are the top, non-targeted digital threats in this region? List them out and indicate their commoness or likelyhood as low, medium and high. 
-  - 
-  - What are the top, non-targeted digital threats in this region?
-  - What are the top targeted digital threats facing organizations doing this work in this region / country?
-  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
-  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+## Capacity & Constraints
 
-- General Technolocal Context of the region/ country: 
-  - Internet penestrtion rate and overall habit of using difital divices,
-  - What are the top targeted digital threats facing organizations doing this work in this region / country? 
-  - how sophiciated and targetted digital threats facing organizations doing this work in this region / country? (Surveilcen? targetted survlence? Or it is more physical like police search?)
-  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
-  - What level of technology is available in the region?
+15. Who has time to plan for disruptions? (role or number of people)  
+16. Who has technical confidence? (role or number of people)  
+17. What is not realistic for you right now? (check all)  
+    1. Buying equipment  
+    2. Complex tools  
+    3. Regular trainings  
+    4. Changing workflows
 
-- Threat Context of the organization: 
-  - Internet penestrtion rate and overall habit of using difital divices,
-  - Organizational operational Context:
-  - What are the top, non-targeted digital threats in this region?
-  - What are the top targeted digital threats facing organizations doing this work in this region / country?
-  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
-  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+## Safety & Legal Boundaries 
 
-- Organizational operational Context: 
-  - Internet penestrtion rate and overall habit of using difital divices,
-  - 
-  - What are the top, non-targeted digital threats in this region?
-  - What are the top targeted digital threats facing organizations doing this work in this region / country?
-  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
-  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+18. Are any of the following legally risky in your context?  
+    1. VPNs  
+    2. Encryption  
+    3. Anonymity tools  
+    4. Don’t know  
+19. Have team members faced increased pressure during shutdowns?  
+    1. Surveillance  
+    2. Police checks  
+    3. Threats  
+    4. None
 
-- Organizational personnel Context: 
-  - Internet penestrtion rate and overall habit of using difital divices,
-  - 
-  - What are the top, non-targeted digital threats in this region?
-  - What are the top targeted digital threats facing organizations doing this work in this region / country?
-  - Are there legal ramifications to digital security in the country? (e.g. legality of encryption, anonymity tools, etc.)
-  - Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
+## Readiness Snapshot
 
+20. If a shutdown happened tomorrow, how prepared are you?  
+    1. Not at all   
+    2. Somewhat  
+    3. We would manage  
+21. What would help most right now?  
+    1. Simple planning templates  
+    2. Scenario examples  
+    3. Peer practices  
+    4. Very light tools

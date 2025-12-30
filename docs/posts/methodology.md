@@ -1,5 +1,5 @@
 ---
-meta_title: "Methodology of BRACE Framework"
+meta_title: "Methodology - Building Readiness and Circumvention in Emergencies - BRACE Framework"
 title: "Methodology"
 description: TBC 
 cover: 

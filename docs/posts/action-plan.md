@@ -1,6 +1,6 @@
 ---
-meta_title: "Action Plan - BRACE Framework"
-title: "Action Plan"
+meta_title: "Action Plan for Contingency Planning for Internet Shutdown - BRACE Framework"
+title: "Action Plan - BRACE Framework"
 description: TBC 
 cover: 
 schema:
