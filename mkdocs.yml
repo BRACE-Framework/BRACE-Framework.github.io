@@ -114,6 +114,9 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
 copyright: |
   &copy; 2025 <a href="https://github.com/stayteef"  target="_blank" rel="noopener">ST</a>
 
