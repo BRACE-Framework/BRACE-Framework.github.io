@@ -35,6 +35,6 @@ By the end of the regional context research, we aim to have a deep understanding
 
 
 ### Template & Resources: Questionnaire
-[Questionnaire](posts/questionnaire/)
+[Questionnaire](/posts/questionnaire/)
 
 [Context Research - SAFETAG](https://safetag.org/methods/context_research/)
