@@ -1,6 +1,6 @@
 site_name: BRACE - Building Readiness and Circumvention in Emergencies Framework
 site_description: BRACE is a curricula, a methodology, and a framework for trainers to assist CSOs to create a customized contingency work plan for internet outage.  
-site_url: http://127.0.0.1:8000/
+site_url: https://brace-framework.github.io/
 theme:
   name: material
   font:
