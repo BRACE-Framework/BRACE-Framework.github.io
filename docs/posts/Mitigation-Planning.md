@@ -13,14 +13,14 @@ schema:
 
 # Mitigation Planning
 
-## Summary
+### Summary
 
 **During the needs mapping process, we identified the organization's goals and barriers faced during internet outages. We can then develop solutions to address these obstacles, considering their risks, impacts, and capacity.**
 
 ---
 Now that we have figured out the scope of work for the organization and what is hindering it from achieving its operational goals, everything else revolves around mitigating these obstacles or finding alternatives.
 
-### 5 Questions to Guide Your Mitigation Planning
+## 5 Questions to Guide Your Mitigation Planning
 We can ask _**five questions**_ to help identify solutions. We aim to establish a table for each need.
 
 1. **Need**: What do I need?
@@ -75,9 +75,9 @@ We can lay out the thinking process in a **Circumvention Identifying Table**.
   </tbody>
 </table>
 
-## STEPS 
+### STEPS 
 
-### 1. Identify Necessary Actions ("Need")
+## 1. Identify Necessary Actions ("Need")
 We need to consider what it takes to achieve the goals identified earlier, as that’s what we truly need.
 
 There can be different solutions for the same goal. When considering their needs, organizations should list as many potentially helpful options as possible. Don't limit yourself to just regaining internet access. While a technological solution may be the most efficient, it's important to think critically—there may be other ways to achieve your goals. These choices can lead to significantly different solutions, risks, and costs.
@@ -122,7 +122,7 @@ For example, for a newsroom aiming to inform the international community about e
   </tbody>
 </table>
 
-### 2. Explore Potential Solutions ("Options")
+## 2. Explore Potential Solutions ("Options")
 Once we determine what we need, we can explore options to achieve it.
 
 There are different categories of solutions, so we should keep our imagination open to all of them:
@@ -214,15 +214,17 @@ There are different categories of solutions, so we should keep our imagination o
 </table>
 
 
-### 3. Outline Associated Pros & Cons ("Impact" & "Cost" & "Risks")
+## 3. Outline Associated Pros & Cons ("Impact" & "Cost" & "Risks")
 
 Lastly, we need to outline the impact, cost and risks that these circumventions may bring.
 
 #### Impact
 
+The impact of a tool depends on your specific needs. For example, using encrypted SMS to stay in touch with others has a high impact for a newsroom, as it allows them to receive updates and publish stories. However, for an individual human rights advocate whose work focuses mostly on documenting footage rather than constant communication, the impact of that same tool is relatively lower.
+
 #### Cost 
 
-
+Here, "cost" includes not just money but also manpower, time, etc. Sometimes the cost is too high for a lower-priority need, making it not worth pursuing. Conversely, if the goal is critical, it may be worth pursuing despite a high cost.
 
 #### Risks
 
@@ -368,22 +370,20 @@ One useful resource is the Security Workbook by Frontline Defenders: [Security W
 
 Anyhow, we've laid out the possible circumventions.
 
-### 4. Select the Most Suitable Mitigation
+## 4. Select the Most Suitable Mitigation
 
 Lastly, we need to outline the risks that these circumventions may bring.
 
 There are different tools available to assess these factors. While helpful, they are not compulsory: 
-- **Cost Impact Matrix**: Cost-effectiveness can be plotted on a Cost Impact Matrix, which helps identify the most cost-effective circumvention measures. This way, you can evaluate which circumventions are worth pursuing. Here, "cost" includes not just money but also manpower, time, etc. Sometimes the cost is too high for a lower-priority need, making it not worth pursuing. Conversely, if the goal is critical, it may be worth pursuing despite a high cost.
+
+- **Cost Impact Matrix**: Cost-effectiveness can be plotted on a Cost Impact Matrix, which helps identify the most cost-effective circumvention measures. This way, you can evaluate which circumventions are worth pursuing. 
 
 !!! abstract
 
     For example, a newsroom that is the only bilingual media outlet in the country, with a large following and frequent mentions by Western media, must be able to spread news outside the country.
 
-### Things to Consider While Developing Mitigation Strategies:
-- **Risk**: While effective, some circumventions carry significant risk. 
-- **Legality**: Certain technologies, like VPNs, may be illegal in specific countries. Organizations must be fully informed about these risks.
-
-- **Be Creative**: Sometimes, we focus too much on technological solutions, but legacy circumventions, such as a USB dead drop, could be more useful. Avoid letting our technical mindset limit our imagination for circumvention. In some cases, gaining internet access might not be the best solution; preserving media files and transferring them later may be more beneficial.
+!!! Be Creative
+    Sometimes, we focus too much on technological solutions, but legacy circumventions, such as a USB dead drop, could be more useful. Avoid letting our technical mindset limit our imagination for circumvention. In some cases, gaining internet access might not be the best solution; preserving media files and transferring them later may be more beneficial.
 
 ---
 

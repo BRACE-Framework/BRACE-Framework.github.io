@@ -57,35 +57,34 @@ The perspectives of **cost, needs, and risk** specific to each community have ye
 
     Even if a tool or workaround exists, if an organization or individual cannot implement or maintain it, they should consider alternative solutions that better fit their resources and skills.
 
-### Holistic Contingency Planning
+## Holistic Contingency Planning
 A trainer will work to collect the following types of information to assess the most suitable contingency plan for an organization.
 
 #### Hold "Alt" / "Option" and scroll to Zoom In/ Out
-``` mermaid
+```mermaid
 flowchart LR
-    nn("<b>Tailored Approach</b><br>What does a trainer need to know?") --> ng("Needs") & n9["Risks"] & n10["Capacity"]
-    ng --> n25["Goal/ Task"]
-    n9 --> n19["Legality"] & n20["Politics"] & n21["Possible Threats"]
-    n10 --> n22["Money"] & n23["Tech-savviness"] & n24["Time"]
-    n25 --> n17["Manpower:<br>Who is involved?"] & A("Workflow:<br>What are the steps required to achieve the goal?") & n18["Resources:<br>What tools, equipment or other resources you need?"]
-    n21 --> n27["Physical Threats"] & n28["Digital Threats"]
-    n19 --> n29["Legality of certain work"] & n30["Legality of certain technology"]
+    nn(["**Tailored Approach**\nWhat does a trainer need to know?"])
+    ng(["Needs"])
+    n9(["Risks"])
+    n10(["Capacity"])
 
-    n9@{ shape: rounded}
-    n10@{ shape: rounded}
-    n25@{ shape: rounded}
-    n19@{ shape: rounded}
-    n20@{ shape: rounded}
-    n21@{ shape: rounded}
-    n22@{ shape: rounded}
-    n23@{ shape: rounded}
-    n24@{ shape: rounded}
-    n17@{ shape: rounded}
-    n18@{ shape: rounded}
-    n27@{ shape: rounded}
-    n28@{ shape: rounded}
-    n29@{ shape: rounded}
-    n30@{ shape: rounded}
+    nn --> ng & n9 & n10
+
+    ng --> n25(["Goal / Task"])
+
+    n9 --> n19(["Legality"]) & n20(["Politics"]) & n21(["Possible Threats"])
+
+    n10 --> n22(["Money"]) & n23(["Tech-savviness"]) & n24(["Time"])
+
+    n25 --> n17(["Manpower\nWho is involved?"])
+    n25 --> A(["Workflow\nWhat are the steps required to achieve the goal?"])
+    n25 --> n18(["Resources\nWhat tools, equipment or other resources are needed?"])
+
+    n21 --> n27(["Physical Threats"]) & n28(["Digital Threats"])
+
+    n19 --> n29(["Legality of certain work"]) & n30(["Legality of certain technology"])
+
+    %% Styles
     style nn stroke:#000000,fill:#00C853,color:#000000
     style ng stroke:#000000,fill:#FFD600
     style n9 stroke:#000000,fill:#86D9E8

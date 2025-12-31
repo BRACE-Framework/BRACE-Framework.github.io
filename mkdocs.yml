@@ -84,7 +84,6 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.mermaid_format
   - pymdownx.tabbed:
       alternate_style: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
@@ -133,6 +132,8 @@ nav:
       - Training and Familiarisation: posts/training.md
   - Resources and Templates:
       - Questionnaire: posts/questionnaire.md
+      - Context Desk Research Guide: posts/context-desk-research-guide.md
+      - Needs Mapping Guide: posts/needs-mapping-guide.md
       - Workflow Breakdown Table: posts/workflow.md
       - Mitigation Table: posts/mitigation.md
       - Impact-Cost Matrix: posts/impact-cost-matrix.md

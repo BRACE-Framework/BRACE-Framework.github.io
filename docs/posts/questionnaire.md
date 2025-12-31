@@ -12,104 +12,142 @@ schema:
 ---
 # Questionnaire
 
-## Organization & Work Reality
+This questionnaire helps refine the BRACE framework and guides you in developing your own contingency measures for internet disruptions. It also informs the trainer ahead of the session.
+
+---
+
+### SECTION 1 - Organization & Work Reality
 
 1. Type of group:  
-   1. Informal civic group   
-   2. CSO   
-   3. Newsroom   
-   4. Collective   
-   5. Individual  
-   6. Other, please specify: \_\_\_\_\_  
+   a. Informal civic group  
+   b. Registered CSO   
+   c. Newsroom   
+   d. Collective   
+   e. Individual  
+   f. Other, please specify: _____  
 2. Number of people regularly involved in work:  
 3. Where do team members usually work from?  
-   1. Physical office or shared workspace  
-   2. Remotely (within the same country)  
-   3. Remotely (across different countries)  
-   4. Frequently changing or temporary locations (e.g. travel, field-based work, displacement)  
-4. What are your core activities? (max 3\)  
-   1. \_\_\_\_\_  
-   2. \_\_\_\_\_  
-   3. \_\_\_\_\_  
-5. For each activity, what is the minimum output needed to keep it alive ((e.g. “1 update/day”, “coordination calls”, “fund transfers”)  
-   1. \_\_\_\_\_  
-   2. \_\_\_\_\_  
-   3. \_\_\_\_\_ 
+   a. Physical office or shared workspace  
+   b. Remotely (within the same country)  
+   c. Remotely (across different countries)  
+   d. Frequently changing or temporary locations (e.g. travel, field-based work, displacement)  
+4. What are your core activities? (max 3)  
+   a. _____  
+   b. _____  
+   c. _____  
+5. For each activity, what is the minimum output needed to keep it alive (e.g. “1 update/day”, “coordination calls”, “fund transfers”)  
+   a. _____  
+   b. _____  
+   c. _____ 
 
-## Shutdown Experience 
+### SECTION 2 - Shutdown Experience 
 
 6. Has your country experienced an internet shutdown in the past 24 months?  
-   1. Yes  
-   2. No   
-   3. Unsure  
+   a. Yes  
+   b. No   
+   c. Unsure  
 7. During the last shutdown, what happened first?  
-   1. Internal comms failed  
-   2. External publishing failed  
-   3. Coordination became chaotic  
-   4. Safety risks increased  
+   a. Internal comms failed  
+   b. External publishing failed  
+   c. Coordination became chaotic  
+   d. Safety risks increased  
+   e. Other, specify: ____________  
 8. What did you actually do to keep working (if at all)?  
-   1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   a. _______________
 
-## Communication Under Stress
+### SECTION 3 - Communication 
 
 9. What tools do you normally use to communicate internally?  
-   1. \_\_\_\_\_\_\_  
-   2. \_\_\_\_\_\_\_  
-   3. \_\_\_\_\_\_\_  
+   a. _______  
+   b. _______  
+   c. _______  
 10. Which of these stopped working during disruptions?  
-    1. \_\_\_\_\_\_\_  
-    2. \_\_\_\_\_\_\_  
-    3. \_\_\_\_\_\_\_  
+    a. _______  
+    b. _______  
+    c. _______  
 11. If your primary tool stopped tomorrow, what is your fallback?  
-    1. We have a fallback, please specify: \_\_\_\_  
-    2. We improvise  
-    3. We stop
+    a. We have a fallback, please specify: ____  
+    b. We improvise  
+    c. We stop
 
-## Decision-Making & Authority
+### SECTION 4 - Decision-Making & Authority
 
 12. During a disruption, who decides what to do?  
-    1. One person  
-    2. Small group  
-    3. Everyone  
-    4. Unclear  
+    a. One person  
+    b. Small group  
+    c. Everyone  
+    d. Unclear  
 13. Is this agreed in advance?  
-    1. Yes  
-    2. Informal   
-    3. No  
+    a. Yes  
+    b. Informal   
+    c. No  
 14. If leadership is unreachable, what happens?  
-    1. \_\_\_\_\_\_\_
+    a. _______
 
-## Capacity & Constraints
+### SECTION 5 - Capacity & Constraints
 
 15. Who has time to plan for disruptions? (role or number of people)  
 16. Who has technical confidence? (role or number of people)  
 17. What is not realistic for you right now? (check all)  
-    1. Buying equipment  
-    2. Complex tools  
-    3. Regular trainings  
-    4. Changing workflows
+    a. Buying equipment  
+    b. Complex tools  
+    c. Regular trainings  
+    d. Changing workflows
 
-## Safety & Legal Boundaries 
+### SECTION 6 - Safety & Legal Boundaries 
 
 18. Are any of the following legally risky in your context?  
-    1. VPNs  
-    2. Encryption  
-    3. Anonymity tools  
-    4. Don’t know  
+    a. VPNs  
+    b. Encryption  
+    c. Anonymity tools  
+    d. Encrypted messenger tools
+    e. Other, specify: _____
+    f. Don’t know  
 19. Have team members faced increased pressure during shutdowns?  
-    1. Surveillance  
-    2. Police checks  
-    3. Threats  
-    4. None
+    a. Surveillance  
+    b. Police search or office raid
+    c. Hack, phishing, or malware
+    d. Threats  
+    e. None  
+20. Is your organization using full disk encryption for data storage?   
+    a. Yes  
+    b. Some  
+    c. No  
+    d. Don’t know what it is   
+21. Have staff members received previous digital security training?  
+    a. Yes  
+    b. Some  
+    c. No  
+    d. Other, please specify: ____   
+22. Has your organization experienced any cyberattacks or physical attacks?  
+    a. Yes  
+    b. No  
+    c. I don't know  
+23. Have any of your staff members experienced cyberattacks or physical attacks individually?  
+    a. Yes  
+    b. No  
+    c. I don't know  
 
-## Readiness Snapshot
+If yes for the above, please provide details: _____
 
-20. If a shutdown happened tomorrow, how prepared are you?  
-    1. Not at all   
-    2. Somewhat  
-    3. We would manage  
-21. What would help most right now?  
-    1. Simple planning templates  
-    2. Scenario examples  
-    3. Peer practices  
-    4. Very light tools
+24. What tools does your staff use to communicate internally within the team? Externally with partners and stakeholders? (Includes voice and video communication): _____
+
+25. Are there documented contingency protocols for responding to and handling major incidents? (Example: Arrest or detention, natural disaster, server crash, office raid): _____
+
+### SECTION 7 - Readiness Snapshot
+
+26. If a shutdown happens tomorrow, how prepared are you?  
+    a. Not at all   
+    b. Somewhat  
+    c. We would manage  
+27. What would help most right now?  
+    a. Simple planning templates  
+    b. Scenario examples  
+    c. Peer practices  
+    d. Very light tools
+
+### SECTION 8 - Feedback on BRACE
+
+* What feels immediately useful?  
+* What feels unrealistic or too heavy?  
+* What would you cut if BRACE had to be simpler?

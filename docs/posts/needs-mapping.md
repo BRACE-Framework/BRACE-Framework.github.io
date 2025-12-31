@@ -10,7 +10,7 @@ schema:
     name: Needs Mapping for Contingency Planning for Internet Shutdown - BRACE Framework
     url: "./"
 ---
-## Needs Mapping
+# Needs Mapping
 **Summary**
 
 **To develop a mitigation plan, an organization must first identify its operational goals and, therefore, its needs. This helps create mitigation strategies or alternatives that are focused on those needs.**
@@ -19,7 +19,7 @@ schema:
 
 Organizations often become so used to their daily operations that it feels like muscle memory, which makes it difficult to clearly define and analyze their goals. However, this clarity is essential for effective contingency planning. The first step helps organizations identify their needs, prioritize them, and explore different methods to achieve specific goals.
 
-### 1. Identify Organization Goals
+## 1. Identify Organization Goals
 These questions can help organizations to clearly describe the organization mission and goals:
 
 * What does your organization exist to do?
@@ -115,7 +115,7 @@ These questions can help organizations to clearly describe the organization miss
 
 ### Once we figure out **primary goal** — everything else is built around supporting it.
 
-### 2. Mapping Challenge or Constraints
+## 2. Mapping Challenge or Constraints
 Now, list the challenge or constraints the organization might face that will stop them from achieving specific goals when Internet shutdown happens:
 
 - Does it require internet to do so? And on what device?
@@ -228,20 +228,20 @@ Now, list the challenge or constraints the organization might face that will sto
 
 ---
 
-## Templates & Resources
+### Templates & Resources
 
-### Needs Mapping Table
+#### Needs Mapping Table
 
 - **PDF for Printing:** [Download Needs Mapping Table
 ](docs/images/BRACE_Needs-Mapping-Table.pdf)  
 - **Google Slides:** [View Impact-Cost Matrix](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.x0uahg6wk0nv)
 
-### Circumvention Identifying Table
+#### Circumvention Identifying Table
 
 - **Google Slides:** [View Circumvention Identifying Table](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.0)  
 - **PDF for Printing:** [Download Circumvention Identifying Table](docs/images/BRACE-Circumvention-Identifying-Table.pdf)
 
-### Resources for Threats modelling and risk assessment 
+#### Resources for Threats modelling and risk assessment 
 - **Frontline Defender**: [Analyzing Risks and Threats in Rural Communities](https://www.frontlinedefenders.org/en/module-13-analysing-risks-threats-rural-communities)
 - **Security Education Companion**: [Threat Modeling Activity Handout (English/Spanish)](https://www.securityeducationcompanion.org/materials/threat-modeling-activity-handout-english-spanish)
 - **Freedom of the Press Foundation**: [Threat Modeling Module](https://freedom.press/digisec/blog/threat-modeling-module/)

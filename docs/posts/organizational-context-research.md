@@ -12,6 +12,7 @@ schema:
 ---
 
 they know their siutation the best, but you have the technical expertise, so it has to be interactive and not top down you use your knoelwge to help
+
 ## Organizational Context Research
 Even within the same city, the nature of an organization can significantly affect its risks and needs, leading to vastly different effective circumvention strategies. 
 
@@ -31,9 +32,9 @@ By the end of the regional context research, we aim to have a deep understanding
 
 ---
 
-## Templates & Resources
+### Templates & Resources
 
-### Questionnaire 
+#### Questionnaire 
 
 - **Online Version** [Questionnaire
 ](docs/questionnaire.md)  
