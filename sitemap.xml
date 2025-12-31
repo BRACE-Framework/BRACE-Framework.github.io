@@ -1,67 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://127.0.0.1:8000/</loc>
+         <loc>https://BRACE-Framework.github.io/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/tags/</loc>
+         <loc>https://BRACE-Framework.github.io/tags/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/Impact-Cost-Matrix/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/Impact-Cost-Matrix/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/about/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/about/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/action-plan/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/action-plan/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/familiarisation/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/context-desk-research-guide/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/methodology/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/familiarisation/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/mitigation-planning/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/methodology/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/needs-mapping/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/mitigation-planning/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/organizational-context-research/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/needs-mapping/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/questionnaire/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/organizational-context-research/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/regional-context-research/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/questionnaire/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/security-training/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/regional-context-research/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/training/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/security-training/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/User-Guide/tot/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/training/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/posts/User-Guide/user-guide/</loc>
+         <loc>https://BRACE-Framework.github.io/posts/User-Guide/tot/</loc>
+         <lastmod>2025-12-31</lastmod>
+    </url>
+    <url>
+         <loc>https://BRACE-Framework.github.io/posts/User-Guide/user-guide/</loc>
          <lastmod>2025-12-31</lastmod>
     </url>
 </urlset>
