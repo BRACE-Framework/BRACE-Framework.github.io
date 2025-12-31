@@ -12,5 +12,4 @@ schema:
 ---
 ## Context Desk Research
 
-
 https://safetag.org/methods/context_research/

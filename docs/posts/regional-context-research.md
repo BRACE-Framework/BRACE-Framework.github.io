@@ -34,5 +34,6 @@ By the end of the regional context research, we aim to have a deep understanding
     * Maintain data about any targeted attacks and attacks affecting the organization's line of work secure.
 
 
-### Template: Questionnaire
-[Questionnaire](questionnaire.md)
+### Template & Resources: Questionnaire
+[Questionnaire](posts/questionnaire/)
+[Context Research - SAFETAG](https://safetag.org/methods/context_research/)
