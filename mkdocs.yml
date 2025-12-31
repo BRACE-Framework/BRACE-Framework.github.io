@@ -86,7 +86,8 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-
+  - toc:
+      toc_depth: 2
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -125,9 +126,9 @@ nav:
       - Training and Familiarisation: posts/training.md
   - Resources and Templates:
       - Questionnaire: posts/questionnaire.md
-      - Workflow Breakdown Table:
-      - Mitigation Table:
+      - Workflow Breakdown Table: posts/workflow.md
+      - Mitigation Table: posts/mitigation.md
       - Impact-Cost Matrix: posts/impact-cost-matrix.md
-      - Action Plan:
+      - Action Plan: posts/action-plan.md
       - Security Training: posts/security-training.md
-      - [Shutdown.tools](https://www.shutdown.tools/)
+      - Shutdown.tools: https://www.shutdown.tools/

@@ -29,17 +29,17 @@ These questions can help organizations to clearly describe the organization miss
 
 !!! Note Note for Trainers
 
-Help them distill their answers into a **clear and rigid purpose statement**. This could sound like:
+    Help them distill their answers into a **clear and rigid purpose statement**. This could sound like:
 
-* "Deliver news to our community"
-* "Coordinate public campaigns and events."
-* "Provide legal aid to marginalized groups."
-* "Publish human rights violations edvidence."
+    * "Deliver news to our community"
+    * "Coordinate public campaigns and events."
+    * "Provide legal aid to marginalized groups."
+    * "Publish human rights violations edvidence."
 
-But not:
+    But not:
 
-* "Report news."
-* "Support democratic movement."
+    * "Report news."
+    * "Support democratic movement."
 
 **Ideally, you will be able to fill this table like this:**                                                                                                                 
 
@@ -113,7 +113,7 @@ But not:
   </tr>
 </tbody></table>
 
-## Once we figure out **primary goal** — everything else is built around supporting it.
+### Once we figure out **primary goal** — everything else is built around supporting it.
 
 ### 2. Mapping Challenge or Constraints
 Now, list the challenge or constraints the organization might face that will stop them from achieving specific goals when Internet shutdown happens:

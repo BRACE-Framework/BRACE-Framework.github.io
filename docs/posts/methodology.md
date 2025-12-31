@@ -18,55 +18,51 @@ This framework emphasizes methodology rather than specific tools. The focus is o
 
 Essentially, this methodology serves as a reference for thinking about internet outages. While the BRACE framework offers a useful structure, skilled facilitators can adapt the process as long as trainees remain well-informed and engaged in discussions.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-0lax"><span style="font-weight:bold">METHOD</span></th>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Content&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>ACTIVITY / TEMPLATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax" rowspan="4"><span style="font-weight:700;font-style:normal;text-decoration:none">I. Context Research</span></td>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Regional Context Research</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Gather relevant political, cultural, geological background information</span></td>
-    <td class="tg-0lax" rowspan="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href="https://www.tablesgenerator.com/about%3Ablank">Questionnaire</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a href="https://www.tablesgenerator.com/about%3Ablank">Context Research Guide</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Organizational Context Research</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Understand the background and operational nature of the organization</span></td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">II. Needs Mapping</span></td>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Needs &amp; Mapping</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Guide interviewees in identifying and listing all their needs and workflows.</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Workflow Breakdown Table</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">III. Mitigation Planning</span></td>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Mitigation Planning</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">For each work goal or need, assess how an internet shutdown would interfere with these tasks and propose possible workarounds.</span></td>
-    <td class="tg-0lax">                                         <br><span style="font-weight:400;font-style:normal;text-decoration:none">Mitigation Table</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Impact Cost Matrix</span><br>Shutdown.tools</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">IV. Create Action Plan &amp; </span><br><span style="font-weight:700;font-style:normal;text-decoration:none">Training</span></td>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Create Action Plan</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Create an action plan with a timeline for shutdown preparation based on the chosen mitigation strategies</span></td>
-    <td class="tg-0lax">Action Plan</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Training and Familiarisation</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Provide training on internet shutdown knowledge, as well as basic security training tailored to their specific needs.</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Security Training Resources</span></td>
-  </tr>
-</tbody></table>
+<table class="custom-standard-table">
+  <thead>
+    <tr>
+      <th style="width: 20%;">METHOD</th>
+      <th style="width: 55%;">CONTENT</th>
+      <th style="width: 25%;">ACTIVITY / TEMPLATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlight-yellow" rowspan="2">I. Context Research</td>
+      <td><strong>Regional Context Research</strong><br>Gather relevant political, cultural, geological background information.</td>
+      <td rowspan="2">
+        <a href="posts/questionnaire.md">Questionnaire</a><br><br>
+        <a href="posts/context-guide.md">Context Research Guide</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Organizational Context Research</strong><br>Understand the background and operational nature of the organization.</td>
+    </tr>
+    <tr>
+      <td class="highlight-yellow">II. Needs Mapping</td>
+      <td><strong>Needs & Mapping</strong><br>Guide interviewees in identifying and listing all their needs and workflows.</td>
+      <td>Workflow Breakdown Table</td>
+    </tr>
+    <tr>
+      <td class="highlight-yellow">III. Mitigation Planning</td>
+      <td><strong>Mitigation Planning</strong><br>For each work goal or need, assess how an internet shutdown would interfere and propose workarounds.</td>
+      <td>
+        Mitigation Table<br>
+        Impact Cost Matrix<br>
+        Shutdown.tools
+      </td>
+    </tr>
+    <tr>
+      <td class="highlight-yellow" rowspan="2">IV. Action Plan & Training</td>
+      <td><strong>Create Action Plan</strong><br>Create an action plan with a timeline for shutdown preparation based on chosen strategies.</td>
+      <td>Action Plan</td>
+    </tr>
+    <tr>
+      <td><strong>Training and Familiarisation</strong><br>Provide training on internet shutdown knowledge and security.</td>
+      <td>Security Training Resources</td>
+    </tr>
+  </tbody>
+</table>
 
 For more detailed ToT explaination, please go to [User Guide](posts/User-Guide/tot/)] (TBC)
 

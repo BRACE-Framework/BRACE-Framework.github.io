@@ -37,40 +37,43 @@ We can ask _**five questions**_ to help identify solutions. We aim to establish 
 
 We can lay out the thinking process in a **Circumvention Identifying Table**. 
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <th colspan="5">Identify Necessary Actions</th>
-  </tr>
-  <tr>
-    <th><b>Need</b><br>What do I need?</th>
-    <th><b>Options</b><br>What actions/tools could help me achieve this goal?</th>
-    <th><b>Impact</b><br>How much does it improve my work?</th>
-    <th><b>Cost</b><br>How much will it cost?</th>
-    <th><b>Risk</b><br>What are the associated risks?</th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+<table class="custom-standard-table">
+  <thead>
+    <tr>
+      <th colspan="5">Identify Necessary Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="bg-pink"><b>Need</b><br>What do I need?</td>
+      <td class="bg-green"><b>Options</b><br>What actions/tools could help me?</td>
+      <td class="bg-blue"><b>Impact</b><br>How much does it improve work?</td>
+      <td class="bg-orange"><b>Cost</b><br>How much will it cost?</td>
+      <td class="bg-red"><b>Risk</b><br>What are the associated risks?</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
 </table>
-
 
 ## STEPS 
 
@@ -81,48 +84,43 @@ There can be different solutions for the same goal. When considering their needs
 
 For example, for a newsroom aiming to inform the international community about events in their country, one solution could be regaining internet access, while another could be preserving evidence until internet access is restored.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-0lax" colspan="5">Identify Necessary Actions</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:bold">Need</span><br>What do I need?</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Options</span><br>What actions/tools could help me achieve this goal?</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Impact</span><br>How much does it improve my work?</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Cost</span><br>How much will it cost?</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Risk</span><br>What are the associated risks?</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1. Internet Access</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2. Transfer footage physically</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> 3. Offline communication methods</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-  </tr>
-</tbody></table>
+<table class="custom-standard-table">
+  <thead>
+    <tr>
+      <th colspan="5">Transfer media file (long distance but within country)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="bg-pink">Need<br>What do I need?</td>
+      <td class="bg-green">Options<br>What actions/tools could help me?</td>
+      <td class="bg-blue">Impact<br>How much does it improve work?</td>
+      <td class="bg-orange">Cost<br>What is the cost?</td>
+      <td class="bg-red">Risk<br>What are the associated risks?</td>
+    </tr>
+    <tr>
+      <td>1. Internet Access</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>2. Transfer footage physically</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>3. Offline communication</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2. Explore Potential Solutions ("Options")
 Once we determine what we need, we can explore options to achieve it.
@@ -141,51 +139,22 @@ There are different categories of solutions, so we should keep our imagination o
 
 [Shutdown.Tools](https://shutdown.tools) is another resource that provides a collection of tools, websites, and strategies for human rights defenders, journalists, and others during internet outages.
 
-<style>
-  .decision-table {
-    border-collapse: collapse;
-    width: 100%;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-  }
-
-  .decision-table th,
-  .decision-table td {
-    border: 1px solid #555;
-    padding: 10px;
-    vertical-align: top;
-    text-align: left;
-  }
-
-  .decision-table thead th {
-    font-weight: bold;
-  }
-
-  .section-title {
-    text-align: center;
-    font-weight: bold;
-  }
-</style>
-
-<table class="decision-table">
+<table class="custom-standard-table">
   <thead>
     <tr>
-      <th colspan="5" class="section-title">
-        Transfer media file (long distance but within country)
-      </th>
-    </tr>
-    <tr>
-      <th>Need</th>
-      <th>Options</th>
-      <th>Impact</th>
-      <th>Cost</th>
-      <th>Risk</th>
+      <th colspan="5">Transfer media file (long distance but within country)</th>
     </tr>
   </thead>
   <tbody>
-    <!-- 1. Internet Access -->
     <tr>
-      <td rowspan="2"><strong>1. Internet Access</strong></td>
+      <td class="bg-pink"><b>Need</b></td>
+      <td class="bg-green"><b>Options</b></td>
+      <td class="bg-blue"><b>Impact</b></td>
+      <td class="bg-orange"><b>Cost</b></td>
+      <td class="bg-red"><b>Risk</b></td>
+    </tr>
+    <tr>
+      <td class="highlight-yellow" rowspan="2"><strong>1. Internet Access</strong></td>
       <td>E-SIM from nearby country</td>
       <td></td>
       <td></td>
@@ -197,9 +166,8 @@ There are different categories of solutions, so we should keep our imagination o
       <td></td>
       <td></td>
     </tr>
-    <!-- 2. Transfer footage physically -->
     <tr>
-      <td rowspan="2"><strong>2. Transfer footage physically</strong></td>
+      <td class="highlight-yellow" rowspan="2"><strong>2. Transfer footage physically</strong></td>
       <td>Physical transfers (USB at office — <strong>encryption required</strong>)</td>
       <td></td>
       <td></td>
@@ -211,9 +179,8 @@ There are different categories of solutions, so we should keep our imagination o
       <td></td>
       <td></td>
     </tr>
-    <!-- 3. Offline communication methods -->
     <tr>
-      <td rowspan="5"><strong>3. Offline communication methods</strong></td>
+      <td class="highlight-yellow" rowspan="5"><strong>3. Offline communication methods</strong></td>
       <td>ShoutSMS app</td>
       <td></td>
       <td></td>
@@ -283,52 +250,22 @@ One useful resource is the Security Workbook by Frontline Defenders: [Security W
 !!! abstract
 
     For example, if using encrypted SMS tools in a highly surveilled country, authorities may notice the cipher texts being sent and draw attention. Physical transfer may be less effective and riskier if there are checkpoints in the area.
-<style>
-  .decision-table {
-    border-collapse: collapse;
-    width: 100%;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-  }
-
-  .decision-table th,
-  .decision-table td {
-    border: 1px solid #555;
-    padding: 10px;
-    vertical-align: top;
-    text-align: left;
-  }
-
-  .decision-table thead th {
-    font-weight: bold;
-  }
-
-  .section-title {
-    text-align: center;
-    font-weight: bold;
-  }
-</style>
-
-<table class="decision-table">
+<table class="custom-standard-table">
   <thead>
     <tr>
-      <th colspan="5" class="section-title">
-        Transfer media file (long distance but within country)
-      </th>
-    </tr>
-    <tr>
-      <th>Need</th>
-      <th>Options</th>
-      <th>Impact</th>
-      <th>Cost</th>
-      <th>Risk</th>
+      <th colspan="5">Transfer media file (long distance but within country)</th>
     </tr>
   </thead>
-
   <tbody>
-    <!-- 1. Internet Access -->
     <tr>
-      <td rowspan="2"><strong>1. Internet Access</strong></td>
+      <td class="bg-pink"><b>Need</b></td>
+      <td class="bg-green"><b>Options</b></td>
+      <td class="bg-blue"><b>Impact</b></td>
+      <td class="bg-orange"><b>Cost</b></td>
+      <td class="bg-red"><b>Risk</b></td>
+    </tr>
+    <tr>
+      <td class="highlight-yellow" rowspan="2"><strong>1. Internet Access</strong></td>
       <td>E-SIM from nearby country</td>
       <td>High</td>
       <td>
@@ -350,16 +287,15 @@ One useful resource is the Security Workbook by Frontline Defenders: [Security W
         – Detectable
       </td>
     </tr>
-    <!-- 2. Transfer footage physically -->
     <tr>
-      <td rowspan="2"><strong>2. Transfer footage physically</strong></td>
+      <td class="highlight-yellow" rowspan="2"><strong>2. Transfer footage physically</strong></td>
       <td>
         Physical transfers (USB at office — <strong>encryption required</strong>)
       </td>
       <td>Medium</td>
       <td>
         – Medium<br>
-        – Staff need to move around the city where there might be traffic
+        – Staff need to move around the city
       </td>
       <td>
         – Arrest / raid
@@ -370,24 +306,23 @@ One useful resource is the Security Workbook by Frontline Defenders: [Security W
       <td>Medium</td>
       <td>
         – Free<br>
-        – Need to install, download, and set up
+        – Need to install and set up
       </td>
       <td>
         – Arrest / raid
       </td>
     </tr>
-    <!-- 3. Offline communication methods -->
     <tr>
-      <td rowspan="5"><strong>3. Offline communication methods</strong></td>
+      <td class="highlight-yellow" rowspan="5"><strong>3. Offline communication methods</strong></td>
       <td>ShoutSMS app</td>
       <td>High</td>
       <td>
         – High SMS cost<br>
-        – Need to install, download, and set up
+        – Need to install and set up
       </td>
       <td>
         – SMS cipher text being flagged<br>
-        – SMS network might get shut down
+        – Network might get shut down
       </td>
     </tr>
     <tr>
@@ -395,11 +330,10 @@ One useful resource is the Security Workbook by Frontline Defenders: [Security W
       <td>Medium</td>
       <td>
         – High SMS cost<br>
-        – Need to install, download, and set up
+        – Need to install and set up
       </td>
       <td>
-        – SMS cipher text being flagged<br>
-        – SMS network might get shut down
+        – SMS cipher text being flagged
       </td>
     </tr>
     <tr>
@@ -417,17 +351,17 @@ One useful resource is the Security Workbook by Frontline Defenders: [Security W
       <td>Delta Chat (SMTP)</td>
       <td>Medium</td>
       <td>
-        – Need to install, download, and set up
+        – Need to install and set up
       </td>
-      <td></td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>Qual</td>
       <td>Medium</td>
       <td>
-        – Need to install, download, and set up
+        – Need to install and set up
       </td>
-      <td></td>
+      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
