@@ -16,8 +16,6 @@ The ***Building Readiness and Circumvention in Emergencies, BRACE Framework*** i
 
 [Read The Methodology :material-network-pos:](posts/methodology.md){ .md-button .md-button--primary } [Learn how to use BRACE as a facilitator :fontawesome-solid-chalkboard-teacher:](docs/posts/User-Guide/user-guide.md){ .md-button .md-button--primary }
 
-The activities can be adjusted or customized to suit specific situations.
-
 ## The BRACE Framework
 
 The BRACE framework consists of four steps, each supported by specific guidelines and templates. It is built for trainers and facilitators who already have a solid understanding of Internet shutdowns, infrastructure, and how to bypass restrictions.
@@ -56,7 +54,7 @@ The BRACE framework consists of four steps, each supported by specific guideline
 
     ---
 
-    While the BRACE framework provides a helpful structure, skilled facilitators can adapt the process as long as the trainees are well-informed and engaged in discussions. 
+    While the BRACE framework provides a helpful structure, the activities can be adjusted or customized to suit specific situations as long as the users are well-informed and engaged in discussions. 
     
     Facilitators can also select specific elements of BRACE to use depending on the users' capacities.
 
