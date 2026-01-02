@@ -3,6 +3,7 @@ site_description: BRACE is a curricula, a methodology, and a framework for train
 site_url: https://BRACE-Framework.github.io
 theme:
   name: material
+  scheme: default
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono  # Optional, for code blocks
@@ -123,6 +124,10 @@ nav:
   - Home: index.md
   - About: posts/about.md
   - The BRACE Methodology: posts/methodology.md
+  - BRACE Facilitator Guide (**under development**): 
+      - Facilitator Guide: posts/User-Guide/user-guide.md
+      - Page 1: posts/User-Guide/page1.md
+      - Page 2: posts/User-Guide/page2.md
   - BRACE Activities:
       - Regional Context Research: posts/regional-context-research.md
       - Organizational Context Research: posts/organizational-context-research.md

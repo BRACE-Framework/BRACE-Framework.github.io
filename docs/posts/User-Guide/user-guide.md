@@ -1,5 +1,5 @@
 ---
-meta_title: "User Guide for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework"
+meta_title: "User Guide for BRACE Framework Facilitator - BRACE Framework"
 title: "User Guide"
 description: TBC 
 cover: 
@@ -7,9 +7,43 @@ schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: User Guide for Contingency Planning for Internet Shutdown - Shutdown Contingency Framework
+    name: User Guide for BRACE Framework Facilitator
     url: "./"
 ---
 ## Navigating this Framework
 
-The Framework is broken down into N thematic sections: Part I: Collecting Feedback to Better Understand the User Part II: Collecting Tool-specific Feedback During Trainings Part III: Collecting Feedback Outside of Trainings Part IV: Communicating with Developers and Tool Teams Each activity includes: a brief summary, list of required resources, actions that must be completed before the activity, a facilitation guide, discussion questions, and relevant templates. Any of the activities may be adapted or localized to fit the context or situation. Templates have been developed using Google Slides to ensure ease of translation or adaptation.
+<div class="grid cards" markdown>
+
+-   :material-calculator-variant-outline:{ .lg .middle } __Guide for Drafting Action Plan__
+
+    ---
+
+    TBC
+
+    [:octicons-arrow-right-24: Guide for Drafting Action Plan](posts/User-Guide/action-plan-guide.md)
+
+-   :material-sticker-check:{ .lg .middle } __Deciding the best cirvumvention__
+
+    ---
+
+    TBC
+
+    [:octicons-arrow-right-24: TBC](#)
+
+-   :safety_vest:{ .lg .middle } __Safety Check__
+
+    ---
+
+     TBC
+
+    [:octicons-arrow-right-24: TBC](#)
+
+-   :material-scale-balance:{ .lg .middle } __Needs Mapping__
+
+    ---
+
+     TBC
+
+    [:octicons-arrow-right-24: TBC](#)
+
+</div>

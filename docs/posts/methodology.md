@@ -29,23 +29,51 @@ Essentially, this methodology serves as a reference for thinking about internet 
   <tbody>
     <tr>
       <td class="highlight-yellow" rowspan="2">I. Context Research</td>
-      <td><strong>Regional Context Research</strong><br>Gather relevant political, cultural, geological background information.</td>
+      <td>
+        <strong>
+          <a href="posts/regional-context-research.md">
+            Regional Context Research
+          </a>
+        </strong><br>
+        Gather relevant political, cultural, geological background information.
+      </td>
       <td rowspan="2">
         <a href="posts/questionnaire.md">Questionnaire</a><br><br>
         <a href="posts/context-guide.md">Context Research Guide</a>
       </td>
     </tr>
     <tr>
-      <td><strong>Organizational Context Research</strong><br>Understand the background and operational nature of the organization.</td>
+      <td>
+        <strong>
+          <a href="posts/organizational-context-research.md">
+            Organizational Context Research
+          </a>
+        </strong><br>
+        Understand the background and operational nature of the organization.
+      </td>
     </tr>
     <tr>
       <td class="highlight-yellow">II. Needs Mapping</td>
-      <td><strong>Needs & Mapping</strong><br>Guide interviewees in identifying and listing all their needs and workflows.</td>
+      <td>
+        <strong>
+          <a href="posts/needs-mapping.md">
+            Needs Mapping
+          </a>
+        </strong><br>
+        Guide interviewees in identifying and listing all their needs and workflows.
+      </td>
       <td>Workflow Breakdown Table</td>
     </tr>
     <tr>
       <td class="highlight-yellow">III. Mitigation Planning</td>
-      <td><strong>Mitigation Planning</strong><br>For each work goal or need, assess how an internet shutdown would interfere and propose workarounds.</td>
+      <td>
+        <strong>
+          <a href="posts/mitigation-planning.md">
+            Mitigation Planning
+          </a>
+        </strong><br>
+        For each work goal or need, assess how an internet shutdown would interfere and propose workarounds.
+      </td>
       <td>
         Mitigation Table<br>
         Impact Cost Matrix<br>
@@ -54,11 +82,25 @@ Essentially, this methodology serves as a reference for thinking about internet 
     </tr>
     <tr>
       <td class="highlight-yellow" rowspan="2">IV. Action Plan & Training</td>
-      <td><strong>Create Action Plan</strong><br>Create an action plan with a timeline for shutdown preparation based on chosen strategies.</td>
+      <td>
+        <strong>
+          <a href="posts/action-plan.md">
+            Create Action Plan
+          </a>
+        </strong><br>
+        Create an action plan with a timeline for shutdown preparation based on chosen strategies.
+      </td>
       <td>Action Plan</td>
     </tr>
     <tr>
-      <td><strong>Training and Familiarisation</strong><br>Provide training on internet shutdown knowledge and security.</td>
+      <td>
+        <strong>
+          <a href="posts/training.md">
+            Training and Familiarisation
+          </a>
+        </strong><br>
+        Provide training on internet shutdown knowledge and security.
+      </td>
       <td>Security Training Resources</td>
     </tr>
   </tbody>

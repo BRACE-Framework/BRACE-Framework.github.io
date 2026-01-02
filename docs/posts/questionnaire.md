@@ -39,6 +39,13 @@ This questionnaire helps refine the BRACE framework and guides you in developing
    a. _____  
    b. _____  
    c. _____ 
+6. What must continue at a minimum? (e.g. one update per day, coordination between 3 people, emergency contact)
+   a. _____  
+   b. _____  
+   c. _____ 
+7. Who must be involved for this to work?
+   _____
+
 
 ### SECTION 2 - Shutdown Experience 
 
