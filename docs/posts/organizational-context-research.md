@@ -36,7 +36,7 @@ By the end of the regional context research, we aim to have a deep understanding
 
 #### Questionnaire 
 
-- **Online Version** [Questionnaire](posts/questionnaire.md)  
+- **Online Version** [Questionnaire](/posts/questionnaire/)
 - **Google Doc:** [View Questionnaire](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.x0uahg6wk0nv)
 - **PDF for Printing:** [Download Questionnaire
 ](docs/images/BRACE_Questionnaire.pdf)  
