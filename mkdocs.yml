@@ -124,10 +124,6 @@ nav:
   - Home: index.md
   - About: posts/about.md
   - The BRACE Methodology: posts/methodology.md
-  - BRACE Facilitator Guide (**under development**): 
-      - Facilitator Guide: posts/User-Guide/user-guide.md
-      - Page 1: posts/User-Guide/page1.md
-      - Page 2: posts/User-Guide/page2.md
   - BRACE Activities:
       - Regional Context Research: posts/regional-context-research.md
       - Organizational Context Research: posts/organizational-context-research.md
@@ -145,3 +141,8 @@ nav:
       - Action Plan: posts/action-plan.md
       - Security Training: posts/security-training.md
       - Shutdown.tools: https://www.shutdown.tools/
+
+  - BRACE Facilitator Guide (UNDER DEVELOPMENT): 
+      - Facilitator Guide: posts/User-Guide/user-guide.md
+      - Page 1: posts/User-Guide/page1.md
+      - Page 2: posts/User-Guide/page2.md

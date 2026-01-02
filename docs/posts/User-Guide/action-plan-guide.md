@@ -12,7 +12,7 @@ schema:
 ---
 # BRACE ACTION PLAN (SIMPLE VERSION)
 
-Purpose \-Prepare for one likely internet disruption by agreeing in advance on what to do and who does it.
+Purpose \-Prepare for one likely Internet disruption by agreeing in advance on what to do and who does it.
 
 1. ### FOCUS 
 

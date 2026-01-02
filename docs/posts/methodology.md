@@ -16,7 +16,7 @@ The BRACE framework is broken down into four stages: it is basically a **threat 
 
 This framework emphasizes methodology rather than specific tools. The focus is on how tech and security personnel can determine the most suitable circumvention strategies for their trainees or organization. There is no one "perfect" tool; instead, the goal is to find "the perfect tool" that best meets your needs.
 
-Essentially, this methodology serves as a reference for thinking about internet outages. While the BRACE framework offers a useful structure, skilled facilitators can adapt the process as long as trainees remain well-informed and engaged in discussions.
+Essentially, this methodology serves as a reference for thinking about Internet outages. While the BRACE framework offers a useful structure, skilled facilitators can adapt the process as long as trainees remain well-informed and engaged in discussions.
 
 <table class="custom-standard-table">
   <thead>
@@ -72,7 +72,7 @@ Essentially, this methodology serves as a reference for thinking about internet 
             Mitigation Planning
           </a>
         </strong><br>
-        For each work goal or need, assess how an internet shutdown would interfere and propose workarounds.
+        For each work goal or need, assess how an Internet shutdown would interfere and propose workarounds.
       </td>
       <td>
         Mitigation Table<br>
@@ -99,7 +99,7 @@ Essentially, this methodology serves as a reference for thinking about internet 
             Training and Familiarisation
           </a>
         </strong><br>
-        Provide training on internet shutdown knowledge and security.
+        Provide training on Internet shutdown knowledge and security.
       </td>
       <td>Security Training Resources</td>
     </tr>

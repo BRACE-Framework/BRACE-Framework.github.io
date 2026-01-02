@@ -17,7 +17,7 @@ It is designed for groups that:
 * need something simple that works under pressure.
 
 Level 1 focuses on **continuity and basic preparedness**, not optimisation or best practice.  
-The goal is not to plan for every possible risk, but to make sure essential work does not fall apart when a likely internet disruption occurs.
+The goal is not to plan for every possible risk, but to make sure essential work does not fall apart when a likely Internet disruption occurs.
 
 At Level 1, a successful outcome means that a group can:
 

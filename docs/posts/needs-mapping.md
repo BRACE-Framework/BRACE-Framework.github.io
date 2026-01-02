@@ -118,7 +118,7 @@ These questions can help organizations to clearly describe the organization miss
 ## 2. Mapping Challenge or Constraints
 Now, list the challenge or constraints the organization might face that will stop them from achieving specific goals when Internet shutdown happens:
 
-- Does it require internet to do so? And on what device?
+- Does it require Internet to do so? And on what device?
 - Would there be human factor that stops you from doing so?
 - Would there be risk? List all digital and non digital risk.
 
@@ -162,28 +162,28 @@ Now, list the challenge or constraints the organization might face that will sto
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Reporters share news material with editors </span>via whatsapp</td>
     <td class="tg-0lax">Tom (daily news reporter)</td>
-    <td class="tg-0lax">No internet </td>
+    <td class="tg-0lax">No Internet </td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Editor upload news to CMS</span></td>
     <td class="tg-0lax">Tom (daily news reporter)</td>
-    <td class="tg-0lax">No internet</td>
+    <td class="tg-0lax">No Internet</td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Reporters upload images to twitter</span></td>
     <td class="tg-0lax">John (full time reporter)<br>Eva (freelance stringer)<br>Tom (daily news editor)</td>
-    <td class="tg-0lax">No internet</td>
+    <td class="tg-0lax">No Internet</td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Audience going online and see our publishing</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Audience</span><br><span style="font-weight:400;font-style:normal">- 383 news subscribers</span><br><span style="font-weight:400;font-style:normal">- 9427 Twitter followers</span><br><span style="font-weight:400;font-style:normal">- Others website browsers</span></td>
-    <td class="tg-0lax">No internet</td>
+    <td class="tg-0lax">No Internet</td>
   </tr>
   <tr>
     <td class="tg-1wig" rowspan="4">2</td>
@@ -195,7 +195,7 @@ Now, list the challenge or constraints the organization might face that will sto
   <tr>
     <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal">Reporter send out newsletter via mailchimp</span></td>
     <td class="tg-0lax" rowspan="2">John</td>
-    <td class="tg-0lax">No internet</td>
+    <td class="tg-0lax">No Internet</td>
   </tr>
   <tr>
     <td class="tg-0lax">Increase Surveillance</td>
@@ -203,7 +203,7 @@ Now, list the challenge or constraints the organization might face that will sto
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Subscribers open email</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Audience</span><br><span style="font-weight:400;font-style:normal">- 210 news subscribers</span></td>
-    <td class="tg-0lax">No internet</td>
+    <td class="tg-0lax">No Internet</td>
   </tr>
   <tr>
     <td class="tg-1wig">3</td>

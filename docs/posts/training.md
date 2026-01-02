@@ -14,7 +14,7 @@ schema:
 
 **Summary**
 
-**Often during an internet shutdown, security risk also increase as the cause is often special events, such as election, uprising or war. The authorities often increase the police force in opublic, leasing to bigger physical security risk, or increase digitl repression such as survielnce or cyber attacker. Therefore, both physical and digital safety is more important during the time of internet disrption. therefore, Prioritize training on  digital security practices, or even securiry accessment is esstneial. **
+**Often during an Internet shutdown, security risk also increase as the cause is often special events, such as election, uprising or war. The authorities often increase the police force in opublic, leasing to bigger physical security risk, or increase digitl repression such as survielnce or cyber attacker. Therefore, both physical and digital safety is more important during the time of Internet disrption. therefore, Prioritize training on  digital security practices, or even securiry accessment is esstneial. **
 
 ---
 Basic Digital Security: such as setting strong passwords, using two-factor authentication, and recognizing phishing attacks. These foundational skills are essential for all users.

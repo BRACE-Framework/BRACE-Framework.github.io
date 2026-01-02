@@ -20,7 +20,7 @@ schema:
 
     TBC
 
-    [:octicons-arrow-right-24: Guide for Drafting Action Plan](posts/User-Guide/action-plan-guide.md)
+    [:octicons-arrow-right-24: Guide for Drafting Action Plan](/posts/User-Guide/action-plan-guide.md)
 
 -   :material-sticker-check:{ .lg .middle } __Deciding the best cirvumvention__
 

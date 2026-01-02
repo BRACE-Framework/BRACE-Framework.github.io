@@ -15,7 +15,7 @@ schema:
 
 ### Summary
 
-**During the needs mapping process, we identified the organization's goals and barriers faced during internet outages. We can then develop solutions to address these obstacles, considering their risks, impacts, and capacity.**
+**During the needs mapping process, we identified the organization's goals and barriers faced during Internet outages. We can then develop solutions to address these obstacles, considering their risks, impacts, and capacity.**
 
 ---
 Now that we have figured out the scope of work for the organization and what is hindering it from achieving its operational goals, everything else revolves around mitigating these obstacles or finding alternatives.
@@ -33,7 +33,7 @@ We can ask _**five questions**_ to help identify solutions. We aim to establish 
 
     It's crucial to determine how "broad" to define the "Necessary Actions." Should it be as general as "deliver news to the audience," or should it specify each workflow step, like "send image to editor" and "editor publishes image"? This decision depends on the severity of the shutdown and your capacity.
 
-    For example, a small city newsroom that can afford satellite internet has a quick solution by regaining access. In contrast, a resource-limited newsroom, where reporters can't return daily, will require alternative methods for each step, such as protecting footage while filming on the frontline and finding ways to transfer that footage for publication.
+    For example, a small city newsroom that can afford satellite Internet has a quick solution by regaining access. In contrast, a resource-limited newsroom, where reporters can't return daily, will require alternative methods for each step, such as protecting footage while filming on the frontline and finding ways to transfer that footage for publication.
 
 We can lay out the thinking process in a **Circumvention Identifying Table**. 
 
@@ -80,9 +80,9 @@ We can lay out the thinking process in a **Circumvention Identifying Table**.
 ## 1. Identify Necessary Actions ("Need")
 We need to consider what it takes to achieve the goals identified earlier, as that’s what we truly need.
 
-There can be different solutions for the same goal. When considering their needs, organizations should list as many potentially helpful options as possible. Don't limit yourself to just regaining internet access. While a technological solution may be the most efficient, it's important to think critically—there may be other ways to achieve your goals. These choices can lead to significantly different solutions, risks, and costs.
+There can be different solutions for the same goal. When considering their needs, organizations should list as many potentially helpful options as possible. Don't limit yourself to just regaining Internet access. While a technological solution may be the most efficient, it's important to think critically—there may be other ways to achieve your goals. These choices can lead to significantly different solutions, risks, and costs.
 
-For example, for a newsroom aiming to inform the international community about events in their country, one solution could be regaining internet access, while another could be preserving evidence until internet access is restored.
+For example, for a newsroom aiming to inform the international community about events in their country, one solution could be regaining Internet access, while another could be preserving evidence until Internet access is restored.
 
 <table class="custom-standard-table">
   <thead>
@@ -129,15 +129,15 @@ There are different categories of solutions, so we should keep our imagination o
 
 - **Software and Apps:** Numerous software programs and mobile applications have been developed for various purposes.
 
-- **Connectivity-Based Solutions:** Hardware based alternative connection. Examples include using alternative SIM cards or roaming services, satellite-based internet such as Starlink.
+- **Connectivity-Based Solutions:** Hardware based alternative connection. Examples include using alternative SIM cards or roaming services, satellite-based Internet such as Starlink.
 
 - **Advanced Technological Solutions:** Some tools require more involved technical setups beyond basic connectivity, such as configuring local mesh networks or deploying custom hardware solutions.
 
-- **Legacy Technology:** When internet access is unavailable, reverting to legacy technologies like fax machines and SMS is common.
+- **Legacy Technology:** When Internet access is unavailable, reverting to legacy technologies like fax machines and SMS is common.
 
 - **Non-Technological Solutions:** Circumvention doesn’t always need to be technical. For example, storing data on a USB stick and delivering it to someone in a nearby city can be an effective solution.
 
-[Shutdown.Tools](https://shutdown.tools) is another resource that provides a collection of tools, websites, and strategies for human rights defenders, journalists, and others during internet outages.
+[Shutdown.Tools](https://shutdown.tools) is another resource that provides a collection of tools, websites, and strategies for human rights defenders, journalists, and others during Internet outages.
 
 <table class="custom-standard-table">
   <thead>
@@ -230,9 +230,9 @@ Here, "cost" includes not just money but also manpower, time, etc. Sometimes the
 
 ##### Navigating Risks During Internet Shutdowns
 
-In countries facing conflict or internet shutdowns, citizens often deal with relatively bigger risks. There are **physical risks**, like police raids and searches, and **digital risks**, such as surveillance and cyberattacks.
+In countries facing conflict or Internet shutdowns, citizens often deal with relatively bigger risks. There are **physical risks**, like police raids and searches, and **digital risks**, such as surveillance and cyberattacks.
 
-When the internet goes dark, these dangers often increase. Authorities frequently move more police or military into the streets while ramping up surveillance to keep control.
+When the Internet goes dark, these dangers often increase. Authorities frequently move more police or military into the streets while ramping up surveillance to keep control.
 
 ##### Balancing Tools and Risks
 
@@ -383,7 +383,7 @@ There are different tools available to assess these factors. While helpful, they
     For example, a newsroom that is the only bilingual media outlet in the country, with a large following and frequent mentions by Western media, must be able to spread news outside the country.
 
 !!! Be Creative
-    Sometimes, we focus too much on technological solutions, but legacy circumventions, such as a USB dead drop, could be more useful. Avoid letting our technical mindset limit our imagination for circumvention. In some cases, gaining internet access might not be the best solution; preserving media files and transferring them later may be more beneficial.
+    Sometimes, we focus too much on technological solutions, but legacy circumventions, such as a USB dead drop, could be more useful. Avoid letting our technical mindset limit our imagination for circumvention. In some cases, gaining Internet access might not be the best solution; preserving media files and transferring them later may be more beneficial.
 
 ---
 

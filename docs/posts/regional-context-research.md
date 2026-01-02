@@ -24,7 +24,7 @@ By the end of the regional context research, we aim to have a deep understanding
 - **Type of Shutdown**: Identify the nature and patterns of shutdowns that have occurred in the country or region. Predicting these patterns may help anticipate future occurrences.
 - **Common Repression Tactics and Threats**: Identify the most common tactics of repression and threats, both digital and physical. Don’t overlook non-political examples, such as an increase in theft during blackouts.
 - **Geographical Factors**: Consider the geographical context, such as proximity to borders and the influence of military groups in the area.
-- **Internet Speed and Usage Habits**: Assess the internet penetration rate and the level of technological proficiency among the population, as the time and effort required for organizations to adapt to new technology or tools can vary greatly.
+- **Internet Speed and Usage Habits**: Assess the Internet penetration rate and the level of technological proficiency among the population, as the time and effort required for organizations to adapt to new technology or tools can vary greatly.
 - **Rural vs. Urban Dynamics**: Examine the differences in population distribution and access between rural and urban areas. For example, mesh networks tend to work better in densely populated areas.
 - **Legal Considerations**: Determine whether certain tools, such as VPNs, are illegal in the region.
 

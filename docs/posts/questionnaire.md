@@ -12,7 +12,7 @@ schema:
 ---
 # Questionnaire
 
-This questionnaire helps refine the BRACE framework and guides you in developing your own contingency measures for internet disruptions. It also informs the trainer ahead of the session.
+This questionnaire helps refine the BRACE framework and guides you in developing your own contingency measures for Internet disruptions. It also informs the trainer ahead of the session.
 
 ---
 
@@ -49,7 +49,7 @@ This questionnaire helps refine the BRACE framework and guides you in developing
 
 ### SECTION 2 - Shutdown Experience 
 
-6. Has your country experienced an internet shutdown in the past 24 months?  
+6. Has your country experienced an Internet shutdown in the past 24 months?  
    a. Yes  
    b. No   
    c. Unsure  
