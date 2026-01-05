@@ -117,6 +117,15 @@ nav:
       - Mitigation Planning: posts/mitigation-planning.md
       - Action Plan: posts/action-plan.md
       - Training and Familiarisation: posts/training.md
+  - Resources and Templates:
+      - Questionnaire: posts/questionnaire.md
+      - Workflow Breakdown Table: posts/workflow.md
+      - Mitigation Table: posts/mitigation.md
+      - Impact-Cost Matrix: posts/impact-cost-matrix.md
+      - Action Plan: posts/action-plan.md
+      - Security Training: posts/security-training.md
+     
+
   - BRACE Facilitator Guide (UNDER DEVELOPMENT): 
       - Facilitator Guide: posts/User-Guide/user-guide.md
       - Context Desk Research Guide: posts/context-desk-research-guide.md
