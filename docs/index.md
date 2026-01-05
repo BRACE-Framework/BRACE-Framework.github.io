@@ -14,7 +14,7 @@ schema:
 ## About BRACE Framework 
 The ***Building Readiness and Circumvention in Emergencies, BRACE Framework*** is a four-step contingency planning methodology designed to assist small-scale civil society organizations and independent media outlets create a customized contingency work plan that addresses their specific <span style="background-color:#e8f5e9; padding:0.1em 0.3em; border-radius:4px;"><strong><em>needs</em></strong></span>, <span style="background-color:#fdecea; padding:0.1em 0.3em; border-radius:4px;"><strong><em>threats</em></strong></span>, and <span style="background-color:#e3f2fd; padding:0.1em 0.3em; border-radius:4px;"><strong><em>capacities</em></strong></span> concerning Internet shutdowns, outages, or limited connectivity. 
 
-[Read The Methodology :material-network-pos:](posts/methodology.md){ .md-button .md-button--primary } [Learn how to use BRACE as a facilitator :fontawesome-solid-chalkboard-teacher:](docs/posts/User-Guide/user-guide.md){ .md-button .md-button--primary }
+[Read The Methodology :material-network-pos:](posts/methodology.md){ .md-button .md-button--primary } [Learn how to use BRACE as a facilitator :fontawesome-solid-chalkboard-teacher:](posts/User-Guide/user-guide){ .md-button .md-button--primary }
 
 ## The BRACE Framework
 
