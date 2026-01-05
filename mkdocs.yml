@@ -49,7 +49,7 @@ theme:
 
 plugins:
   - git-revision-date-localized:
-      type: iso_date
+      type: date
       fallback_to_build_date: false  
       enable_creation_date: false  
       enabled: true
@@ -72,6 +72,8 @@ plugins:
       full_screen: True # default False
   - search
   - tags
+  - offline:
+      enabled: !ENV [OFFLINE, false]
 
 extra_css:
   - stylesheets/extra.css
@@ -129,7 +131,7 @@ nav:
       - Organizational Context Research: posts/organizational-context-research.md
       - Needs Mapping: posts/needs-mapping.md
       - Mitigation Planning: posts/mitigation-planning.md
-      - Action Plan: posts/feedback.md
+      - Action Plan: posts/action-plan.md
       - Training and Familiarisation: posts/training.md
   - Resources and Templates:
       - Questionnaire: posts/questionnaire.md

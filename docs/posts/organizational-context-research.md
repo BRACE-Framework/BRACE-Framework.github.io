@@ -1,24 +1,26 @@
 ---
-meta_title: "Organizational Content Research for Contingency Planning for Internet Shutdown - BRACE Framework"
-title: "Organizational Content Research - BRACE Framework"
+meta_title: "Organizational Context Research for Contingency Planning for Internet Shutdown - BRACE Framework"
+title: "Organizational Context Research - BRACE Framework"
 description: TBC 
 cover: 
 schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Organizational Content Research for Contingency Planning for Internet Shutdown - BRACE Framework
+    name: Organizational Context Research for Contingency Planning for Internet Shutdown - BRACE Framework
     url: "./"
 ---
+# Organizational Context Research
 
-they know their siutation the best, but you have the technical expertise, so it has to be interactive and not top down you use your knoelwge to help
+**Summary**
 
-## Organizational Context Research
-Even within the same city, the nature of an organization can significantly affect its risks and needs, leading to vastly different effective circumvention strategies. 
+**While facilitators have a better understanding of technology and internet infrastructure, users know their situations best. Therefore, the step of organizational context research is crucial for understanding the background information, needs, risks, and capacities of the organization or individual you work with.**
 
-!!! abstract inline end "Activity"
+---
 
-    This part of the process primarily involves gathering insights from interviews with the organization, supplemented by some pre-interview desk research.
+Even within the same city, an organization's characteristics can significantly influence its risks and needs, resulting in vastly different effective circumvention strategies.
+
+This part of the process primarily involves gathering insights from interviews with the organization, supplemented by interview desk research.
 
 By the end of the regional context research, we aim to have a deep understanding of the following aspects, but not limited to:
 
@@ -40,3 +42,7 @@ By the end of the regional context research, we aim to have a deep understanding
 - **Google Doc:** [View Questionnaire](https://docs.google.com/document/d/1mirk33bQ3tIQnxicpKILOU06S7MFTBc3q93b7GQl7cc/edit?tab=t.x0uahg6wk0nv)
 - **PDF for Printing:** [Download Questionnaire
 ](docs/images/BRACE_Questionnaire.pdf)  
+
+#### SAFETAG 
+[Assessing legal threats - SAFETAG](https://safetag.org/activities/assessing-legal-threats/)
+[Physical and Operational Security - SAFETAG](https://safetag.org/methods/operational_security/)

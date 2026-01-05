@@ -7,11 +7,11 @@ schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Action Plan for Internet Shutdown
+    name: Create Action Plan for Internet Shutdown
     url: "./"
 ---
 
-## Needs Mapping
+## Create Action Plan
 
 **Summary**
 
@@ -36,460 +36,119 @@ See [Security Training](docs/training).
 The action plan template can be used, but it's very important for facilitators to check in regularly with trainees to ensure everything is in place.
 
 ### Action Plan
+This is an exmaple for an action plan.
 
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
+  <style>
+    table, th, td {
+      border: 1px solid #000;
+    }
+    td.task {
+      text-align: left;
+      white-space: nowrap;
+    }
+  </style>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th>Time (Days)</th>
+      <th colspan="4">OCT</th>
+      <th colspan="4">NOV</th>
+      <th colspan="4">DEC</th>
+      <th colspan="4">JAN</th>
+      <th colspan="4">FEB</th>
+      <th colspan="4">MAR</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Week</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="task">Hide the network</td>
+      <td>1</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td class="task">Full Disk Encryption</td>
+      <td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td class="task">&emsp;– Ask everyone to turn on</td>
+      <td>1</td>
+      <td>X</td><td>X</td><td>X</td><td>X</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td class="task">&emsp;– Check if everyone has enabled</td>
+      <td>1</td>
+      <td></td><td></td><td></td><td></td>
+      <td>X</td><td>X</td><td>X</td><td>X</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td class="task">&emsp;– Draft contingency plan</td>
+      <td>7</td>
+      <td></td><td></td><td></td><td></td>
+      <td>X</td><td>X</td><td>X</td><td>X</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td class="task">&emsp;– Teammate review contingency plan</td>
+      <td>7</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td>X</td><td>X</td><td>X</td><td>X</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td class="task">&emsp;– Practice protocols</td>
+      <td>7</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+      <td>X</td><td>X</td><td>X</td><td>X</td>
+      <td></td><td></td><td></td><td></td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+  </tbody>
+</table>
 
-<h2>📝 Editable Risk Assessment Table</h2>
-<p>Fill in the table below with relevant details.</p>
+---
 
-<div align="left">
-    <table style="border: medium; border-collapse: collapse; width: 100%;">
-        <tbody>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Task</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Time (Days)</span></strong></p>
-                </td>
-                <td colspan="4" style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">OCT</span></strong></p>
-                </td>
-                <td colspan="4" style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">NOV</span></strong></p>
-                </td>
-                <td colspan="4" style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">DEC</span></strong></p>
-                </td>
-                <td colspan="4" style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">JAN</span></strong></p>
-                </td>
-                <td colspan="4" style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">FEB</span></strong></p>
-                </td>
-                <td colspan="4" style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">MAR</span></strong></p>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><span style="font-size:11pt;font-family:Arial,sans-serif;">Week</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;1</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;2</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;3</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;4</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;1</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;2</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;3</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;4</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;1</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;2</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;3</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;4</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;1</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;2</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;3</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;4</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;1</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;2</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;3</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;4</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;1</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;2</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;3</span></strong></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p style="text-align: center;"><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;4</span></strong></p>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Hide the network</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">1</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Full Disk Encryption</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <ul>
-                        <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
-                            <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Ask everyone in org to turn on</span></p>
-                        </li>
-                    </ul>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">1</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <ul>
-                        <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
-                            <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Check if everyone has enable</span></p>
-                        </li>
-                    </ul>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">1</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Define contingency plan</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <ul>
-                        <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
-                            <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Draft Contingency plan</span></p>
-                        </li>
-                    </ul>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">7</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <ul>
-                        <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
-                            <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Teammate review contingency plan&nbsp;</span></p>
-                        </li>
-                    </ul>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">7</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;">
-                    <ul>
-                        <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
-                            <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Practice protocols&nbsp;</span></p>
-                        </li>
-                    </ul>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">7</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;">
-                    <p><span style="font-size:11pt;font-family:Arial,sans-serif;">X</span></p>
-                </td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-            <tr>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-                <td style="border: solid #000000 1pt;"><br></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<p><span style="font-size:11pt;font-family:Arial,sans-serif;"></span><br></p>
+## Templates 
 
+### Action Plan
+
+- **PDF for Printing:** [Download Action Plan Template](docs/images/BRACE_action-plan.pdf)  
+- **Google Sheets:** [View Action Plan Template](https://docs.google.com/spreadsheets/d/1rkctE2_t9Ro80E0a3jqHPDSgGqCK50LX8j5jc-KqqDA/edit?usp=sharing)

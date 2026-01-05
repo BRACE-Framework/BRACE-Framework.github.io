@@ -378,7 +378,7 @@ There are different tools available to assess these factors. While helpful, they
 
 - **Cost Impact Matrix**: Cost-effectiveness can be plotted on a Cost Impact Matrix, which helps identify the most cost-effective circumvention measures. This way, you can evaluate which circumventions are worth pursuing. 
 
-!!! abstract
+!!! Example
 
     For example, a newsroom that is the only bilingual media outlet in the country, with a large following and frequent mentions by Western media, must be able to spread news outside the country.
 

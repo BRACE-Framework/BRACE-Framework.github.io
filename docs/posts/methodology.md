@@ -106,11 +106,12 @@ Essentially, this methodology serves as a reference for thinking about Internet 
   </tbody>
 </table>
 
-For more detailed ToT explaination, please go to [User Guide](posts/User-Guide/tot/)] (TBC)
+### Facilitator Guide (TBC)
 
-## Navigating this Framework
-The BRACE framework includes four steps, each with guidelines and templates. 
+In most cases, CSO members or media personnel have limited knowledge of internet shutdowns and internet freedom projects. However, they understand their own situations and needs best. Therefore, facilitators with experience in providing tech support and training, along with knowledge of internet shutdown circumvention tactics and technology, can guide users through the process.
 
 While the BRACE framework provides a helpful structure, skilled facilitators can adapt the process as long as the trainees are well-informed and engaged in discussions.
 
 The activities can be adjusted or customized to suit specific situations.
+
+There are specific skills and considerations for each step of the BRACE framework. For a more detailed explanation and the BRACE facilitator guide, please visit the [User Guide](posts/User-Guide/user-guide.md).

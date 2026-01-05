@@ -1,13 +1,13 @@
 ---
-meta_title: "Content Research for Contingency Planning for Internet Shutdown - BRACE Framework"
-title: "Regional Content Research"
+meta_title: "Context Research for Contingency Planning for Internet Shutdown - BRACE Framework"
+title: "Regional Context Research"
 description: TBC 
 cover: 
 schema:
   -
     "@context": http://schema.org
     "@type": WebPage
-    name: Regional Content Research for Contingency Planning for Internet Shutdown - BRACE Framework
+    name: Regional Context Research for Contingency Planning for Internet Shutdown - BRACE Framework
     url: "./"
 ---
 ## Regional Context Research
@@ -15,9 +15,11 @@ Context is the heart of effective mitigation planning. It shapes the circumventi
 
 Even if you’re from the country or familiar with its background, it’s important to remember that different communities, regions, and ethnic groups can have very different contexts. 
 
-!!! abstract inline end "Activity"
+ (TBC) For context research, [SAFETAG](https://safetag.org/methods/context_research/) is a good resources, despite it's focus on digital safety.  (TBC)
 
-    This part of the process involves gathering and analyzing desk research by the trainer, along with insights from interviews.
+
+## Desk Research 
+This part of the process involves gathering and analyzing desk research by the facilitator, along with insights from interviews.
 
 By the end of the regional context research, we aim to have a deep understanding of the following aspects, but not limited to:
 
