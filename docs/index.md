@@ -1,7 +1,7 @@
 ---
 meta_title: "Homepage - Building Readiness and Circumvention in Emergencies"
 title: "Homepage - BRACE Framework"
-description: TBC 
+description: BRACE is a curricula, a methodology, and a framework for trainers to assist CSOs to create a customized contingency work plan for internet outage.  
 cover: 
 schema:
   -
