@@ -18,7 +18,6 @@ theme:
     - navigation.expand  
     - toc.integrate      
     - navigation.sections
-    - navigation.footer
     - navigation.indexes
     - navigation.top
     - navigation.tracking
@@ -26,6 +25,7 @@ theme:
     - navigation.sections   
     - navigation.instant   
     - search.highlight
+    - navigation.footer: false
 
   font:
     text: Roboto
