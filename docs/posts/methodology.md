@@ -31,14 +31,14 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow" rowspan="2">I. Context Research</td>
       <td>
         <strong>
-          <a href="/posts/regional-context-research.md">
+          <a href="/posts/regional-context-research">
             Regional Context Research
           </a>
         </strong><br>
         Gather relevant political, cultural, geological background information.
       </td>
       <td rowspan="2">
-        <a href="/posts/questionnaire.md">Questionnaire</a><br><br>
+        <a href="/posts/questionnaire">Questionnaire</a><br><br>
         <a href="/posts/context-guide.md">Context Research Guide</a>
       </td>
     </tr>
