@@ -39,13 +39,13 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       </td>
       <td rowspan="2">
         <a href="/posts/questionnaire">Questionnaire</a><br><br>
-        <a href="/posts/context-guide.md">Context Research Guide</a>
+        <a href="/posts/context-guide">Context Research Guide</a>
       </td>
     </tr>
     <tr>
       <td>
         <strong>
-          <a href="/posts/organizational-context-research.md">
+          <a href="/posts/organizational-context-research">
             Organizational Context Research
           </a>
         </strong><br>
@@ -56,7 +56,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow">II. Needs Mapping</td>
       <td>
         <strong>
-          <a href="/posts/needs-mapping.md">
+          <a href="/posts/needs-mapping">
             Needs Mapping
           </a>
         </strong><br>
@@ -68,7 +68,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow">III. Mitigation Planning</td>
       <td>
         <strong>
-          <a href="/posts/mitigation-planning.md">
+          <a href="/posts/mitigation-planning">
             Mitigation Planning
           </a>
         </strong><br>
@@ -84,7 +84,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow" rowspan="2">IV. Action Plan & Training</td>
       <td>
         <strong>
-          <a href="/posts/action-plan.md">
+          <a href="/posts/action-plan">
             Create Action Plan
           </a>
         </strong><br>
@@ -95,7 +95,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
     <tr>
       <td>
         <strong>
-          <a href="/posts/training.md">
+          <a href="/posts/training">
             Training and Familiarisation
           </a>
         </strong><br>
@@ -114,4 +114,4 @@ While the BRACE framework provides a helpful structure, skilled facilitators can
 
 The activities can be adjusted or customized to suit specific situations.
 
-There are specific skills and considerations for each step of the BRACE framework. For a more detailed explanation and the BRACE facilitator guide, please visit the [User Guide](posts/User-Guide/user-guide.md).
+There are specific skills and considerations for each step of the BRACE framework. For a more detailed explanation and the BRACE facilitator guide, please visit the [User Guide](/posts/User-Guide/user-guide).
