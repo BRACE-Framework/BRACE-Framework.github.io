@@ -31,21 +31,21 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow" rowspan="2">I. Context Research</td>
       <td>
         <strong>
-          <a href="posts/regional-context-research.md">
+          <a href="/posts/regional-context-research.md">
             Regional Context Research
           </a>
         </strong><br>
         Gather relevant political, cultural, geological background information.
       </td>
       <td rowspan="2">
-        <a href="posts/questionnaire.md">Questionnaire</a><br><br>
-        <a href="posts/context-guide.md">Context Research Guide</a>
+        <a href="/posts/questionnaire.md">Questionnaire</a><br><br>
+        <a href="/posts/context-guide.md">Context Research Guide</a>
       </td>
     </tr>
     <tr>
       <td>
         <strong>
-          <a href="posts/organizational-context-research.md">
+          <a href="/posts/organizational-context-research.md">
             Organizational Context Research
           </a>
         </strong><br>
@@ -56,7 +56,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow">II. Needs Mapping</td>
       <td>
         <strong>
-          <a href="posts/needs-mapping.md">
+          <a href="/posts/needs-mapping.md">
             Needs Mapping
           </a>
         </strong><br>
@@ -68,7 +68,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow">III. Mitigation Planning</td>
       <td>
         <strong>
-          <a href="posts/mitigation-planning.md">
+          <a href="/posts/mitigation-planning.md">
             Mitigation Planning
           </a>
         </strong><br>
@@ -84,7 +84,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
       <td class="highlight-yellow" rowspan="2">IV. Action Plan & Training</td>
       <td>
         <strong>
-          <a href="posts/action-plan.md">
+          <a href="/posts/action-plan.md">
             Create Action Plan
           </a>
         </strong><br>
@@ -95,7 +95,7 @@ Essentially, this methodology serves as a reference for thinking about Internet 
     <tr>
       <td>
         <strong>
-          <a href="posts/training.md">
+          <a href="/posts/training.md">
             Training and Familiarisation
           </a>
         </strong><br>
